@@ -1,0 +1,63 @@
+,Unnamed: 0,Station_Id,Name,Elevation,Amount,Amount_Units,Duration,Duration_Units,Physical_Element,DateTime_Report,Unnamed: 9,Latitude,Longitude
+0,0,LNRW4,LANDER(DOWNTOWN)COOP STN,1622 meters,553.72,mm,24,Hours,station raw snowfall,2004-02-29 19,,42.8447,-108.7406
+1,1,HUDW4,HUDSON, 1622 meters,347.98,mm,24,Hours,station raw snowfall,2004-02-29 19,,42.875,-108.5833
+2,2,STOW4,"STORY, WY",1549 meters,325.12,mm,24,Hours,station raw snowfall,2004-02-29 20,,44.5772,-106.8947
+3,3,BURW4,BURGESS JUNCTION,2451 meters,304.8,mm,24,Hours,station raw snowfall,2004-02-29 20,,44.7753,-107.5219
+4,4,EKLM8,EKALAKA,1044 meters,274.32,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.8903,-104.5461
+5,5,MYSM8,MYSTIC LAKE,1995 meters,254.0,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.2436,-109.7311
+6,6,4BQ,BROADUS,924 meters,203.2,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.4441,-105.4072
+7,7,STBC2,STEAMBOAT SPRINGS SPOTTER, 2127 meters,177.8,mm,24,Hours,station raw snowfall,2004-03-01 01,,40.4728,-106.8103
+8,8,PLEM8,PLEVNA,847 meters,177.8,mm,24,Hours,station raw snowfall,2004-03-01 06,,46.4178,-104.5164
+9,9,ALBM8,ALBION 1N,1009 meters,152.4,mm,24,Hours,station raw snowfall,2004-02-29 18,,45.2088,-104.2647
+10,10,POWM8,POWDERVILLE 8 NNE,853 meters,152.4,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.8525,-105.035
+11,11,WGSW4,SHERIDAN GIRL'S SCHOOL,1202 meters,142.24,mm,24,Hours,station raw snowfall,2004-02-29 20,,44.76,-106.9694
+12,12,AVNC2,AVON 2N,2499 meters,139.7,mm,24,Hours,station raw snowfall,2004-03-01 01,,39.6667,-106.55
+13,13,ASPC2,ASPEN COOP,2488 meters,139.7,mm,24,Hours,station raw snowfall,2004-03-01 01,,39.1881,-106.8361
+14,14,BSSN1,BUSHNELL 15S,1576 meters,5.08,mm,1,Hours,station raw snowfall,2004-02-29 20,,41.0103,-103.8769
+15,15,HAYC2,HAYDEN COOP,1963 meters,114.3,mm,24,Hours,station raw snowfall,2004-03-01 01,,40.4928,-107.2547
+16,16,JOLM8,JOLIET,1128 meters,109.22,mm,24,Hours,station raw snowfall,2004-02-29 20,,45.4892,-108.9736
+17,17,HDNM8,HARDIN,885 meters,101.6,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.7322,-107.6081
+18,18,GTHC2,GOTHIC,2886 meters,88.9,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.9667,-106.9833
+19,19,URYC2,QURAY SPOTTER, 2472 meters,83.82,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.0261,-107.6725
+20,20,BYZ,"BILLINGS, MT",971 meters,66.04,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.7508,-108.5706
+21,21,MSXC2,MESA 6S,2353 meters,63.5,mm,24,Hours,station raw snowfall,2004-03-01 01,,39.0886,-108.1178
+22,22,RWYC2,RIDGWAY 3NW,2377 meters,58.42,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.1833,-107.7667
+23,23,ANAM8,ANACONDA,1609 meters,55.88,mm,24,Hours,station raw snowfall,2004-03-01 06,,46.1314,-112.9569
+24,24,CBUC2,CRESTED BUTTE COOP,2701 meters,50.8,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.8786,-106.9761
+25,25,DBOW4,"DUBOIS, WY",2121 meters,50.8,mm,24,Hours,station raw snowfall,2004-02-29 21,,43.5667,-109.6333
+26,26,WRPM8,ROGERS PASS 9 NNE,1280 meters,50.8,mm,24,Hours,station raw snowfall,2004-02-29 18,,47.19,-112.2906
+27,27,GEOM8,GEORGETOWN LAKE,1972 meters,45.72,mm,24,Hours,station raw snowfall,2004-02-29 18,,46.1836,-113.33
+28,28,PLCC2,PLACEVILLE,2231 meters,33.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.0161,-108.0542
+29,29,CHMN5,CHAMA. UPPER COLORADOO NTWK,2393 meters,12.7,mm,12,Hours,station raw snowfall,2004-03-01 05,,36.9169,-106.5772
+30,30,HAMC2,"HAMILTON, CO",1899 meters,25.4,mm,24,Hours,station raw snowfall,2004-03-01 01,,40.3722,-107.6117
+31,31,DROC2,DURANGO SPOTTER, 2025 meters,25.4,mm,24,Hours,station raw snowfall,2004-03-01 01,,37.3056,-107.8375
+32,32,GJT,"GRAND JUNCTION, CO",1481 meters,25.4,mm,24,Hours,station raw snowfall,2004-03-01 06,,39.12,-108.5244
+33,33,PARC2,PARADOX, 1696 meters,25.4,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.3958,-108.9606
+34,34,BKCC2,BLACK CANYON OF THE GUNNISON,2484 meters,20.32,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.5547,-107.6869
+35,35,IGCC2,IGNACIO SPOTTER, 2010 meters,17.78,mm,24,Hours,station raw snowfall,2004-03-01 01,,37.0875,-107.5331
+36,36,ATBC2,ALTERNBERN COOP,1731 meters,17.78,mm,24,Hours,station raw snowfall,2004-03-01 09,,39.5008,-108.3794
+37,37,MRTM8,MARTINSDALE 3 NNW,1463 meters,15.24,mm,24,Hours,station raw snowfall,2004-03-01 06,,46.5,-110.3378
+38,38,WISM8,WISDOM,1847 meters,12.7,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.6178,-113.4514
+39,39,CTZC2,CORTEZ COOP & UPPER COLORADO SITE,1875 meters,10.16,mm,24,Hours,station raw snowfall,2004-03-01 01,,37.3444,-108.5931
+40,40,BZEM8,BOZEMAN MONTANA STATE UNIV,1497 meters,10.16,mm,24,Hours,station raw snowfall,2004-03-01 06,,45.6622,-111.0453
+41,41,BTMC2,"BATTLEMENT MESA, CO",1631 meters,7.62,mm,24,Hours,station raw snowfall,2004-03-01 01,,39.35,-107.8333
+42,42,BMKC2,BLUE MESA LAKE COOP,2329 meters,5.08,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.4678,-107.1647
+43,43,GRJC2,GRAND JUNCTION COOP,1451 meters,5.08,mm,24,Hours,station raw snowfall,2004-03-01 01,,39.0422,-108.4658
+44,44,BOUM8,BOULDER,1495 meters,5.08,mm,24,Hours,station raw snowfall,2004-03-01 06,,46.2313,-112.1136
+45,45,WINI1,"WINCHESTER, ID",1204 meters,5.08,mm,24,Hours,station raw snowfall,2004-03-01 09,,46.2375,-116.6228
+46,46,VELU1,VERNAL,1667 meters,2.54,mm,24,Hours,station raw snowfall,2004-03-01 01,,40.4269,-109.5531
+47,47,SILC2,SILT 1E,1669 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,39.55,-107.6333
+48,48,DLTC2,DELTA 3E,1527 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.7539,-108.0278
+49,49,RNGC2,RANGELY,1612 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,40.0894,-108.7717
+50,50,DOVC2,DOVE CREEK,2086 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,37.7672,-108.9119
+51,51,JARU1,JARVIE RANCH,1676 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,40.8994,-109.1794
+52,52,MONU1,MONTICELLO,2079 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 09,,37.8736,-109.3069
+53,53,MOAU1,MOAB RADIO COOP,1226 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 09,,38.5739,-109.5458
+54,54,ANPU1,ARCHES NP HQS COOP,1259 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.6163,-109.6191
+55,55,CNDU1,CANYONLANDS-THE NEEDLES,1523 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,38.1506,-109.7822
+56,56,NBMU1,NATURAL BRIDGES,1981 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 01,,37.6094,-109.9772
+57,57,GNDM8,GLENDIVE,633 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 06,,47.1064,-104.7183
+58,58,GTF,GREAT FALLS AIRPORT,1116 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 06,,47.4733,-111.3822
+59,59,TFX,"GREAT FALLS, MT", 1097 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 06,,47.4597,-111.3847
+60,60,LYBM8,LIBBY 32 SSE,1097 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 06,,47.9733,-115.2239
+61,61,OTX,"SPOKANE, WA",727 meters,0.02,mm,24,Hours,station raw snowfall,2004-03-01 06,,47.6808,-117.6267

@@ -1,0 +1,853 @@
+,Station_Id,Name,Elevation,Physical_Element,Amount,Units,DateTime_Report,Unnamed: 7,Latitude,Longitude
+0,LDGC1,LODGEPOLE,2051 meters,station snow depth,213.36,cm,2005-03-01 06,,36.6044,-118.7325
+1,GTHC2,GOTHIC,3171 meters,station snow depth,180.34,cm,2005-02-28 19,,38.9667,-106.9833
+2,BELW2,"BELINGTON,WV",524 meters,station snow depth,172.72,cm,2005-02-28 12,,39.0269,-79.9403
+3,MMNV1,MT. MANSFIELD,1201 meters,station snow depth,154.94,cm,2005-02-28 21,,44.5333,-72.8167
+4,GRGC1,GRANT GROVE,2029 meters,station snow depth,152.4,cm,2005-03-01 06,,36.7394,-118.9631
+5,NRMA3,BRIGHT ANGEL R.S.,2551 meters,station snow depth,137.16,cm,2005-03-01 00,,36.215,-112.0619
+6,MALC1,MAMMOTH LAKES R.S.,2381 meters,station snow depth,134.62,cm,2005-02-28 15,,37.6478,-118.9617
+7,DAGN2,DAGGET PASS,2268 meters,station snow depth,129.54,cm,2005-02-28 15,,38.9783,-119.8914
+8,CRLO3,CRATER LAKE NATIONAL PARK HQ,1986 meters,station snow depth,129.54,cm,2005-02-28 16,,42.8967,-122.1328
+9,MCHN2,KYLE CANYON TOWN OF MT CHARLESTON,2271 meters,station snow depth,124.46,cm,2005-02-28 18,,36.2597,-115.6417
+10,ASFW1,RAINIER PARADISE RANGER STN,1643 meters,station snow depth,121.92,cm,2005-02-28 16,,46.7861,-121.7422
+11,PEXM4,PHOENIX FARM,385 meters,station snow depth,109.22,cm,2005-02-28 12,,47.3717,-88.2581
+12,MHKM4,MOHAWK,315 meters,station snow depth,99.06,cm,2005-03-01 01,,47.3058,-88.3639
+13,CLKM4,"6MI.E CHAMPION,MI",499 meters,station snow depth,96.52,cm,2005-03-01 02,,46.5014,-87.8458
+14,ANDM1,ANDOVER 2,258 meters,station snow depth,86.36,cm,2005-02-28 12,,44.6531,-70.7947
+15,TWOM5,"7MI.NW TWO HARBORS,MN",417 meters,station snow depth,86.36,cm,2005-03-01 01,,47.1258,-91.7075
+16,BERI1,BERN,1816 meters,station snow depth,83.82,cm,2005-02-28 15,,42.3353,-111.385
+17,MQT,"MARQUETTE, MI",437 meters,station snow depth,83.82,cm,2005-03-01 00,,46.5311,-87.5483
+18,LKSW3,LAND O LAKES 4W CONSERVE,531 meters,station snow depth,83.82,cm,2005-02-28 15,,46.1744,-89.3075
+19,KETM4,PAINT LAKE,497 meters,station snow depth,81.28,cm,2005-02-28 13,,46.3247,-88.8803
+20,HANA3,ALPINE 18 SW,2776 meters,station snow depth,78.74,cm,2005-02-28 12,,33.6392,-109.3278
+21,BIGN3,"10MI.ENE COLEBROOK,NH",697 meters,station snow depth,78.74,cm,2005-02-28 12,,44.95,-71.3167
+22,CBUC2,CRESTED BUTTE COOP,2705 meters,station snow depth,76.2,cm,2005-02-28 19,,38.8786,-106.9761
+23,BNWW4,BONDURANT,2023 meters,station snow depth,71.12,cm,2005-02-28 15,,43.2067,-110.3914
+24,BAGM4,"2MI.W BARAGA,MI",270 meters,station snow depth,71.12,cm,2005-02-28 13,,46.7786,-88.5442
+25,MDHC2,MEREDITH UPPER COLORADO RVR PROJECT/COOP,2395 meters,station snow depth,68.58,cm,2005-02-28 19,,39.3619,-106.7422
+26,PSCN6,"PISECO,NY",575 meters,station snow depth,68.58,cm,2005-02-28 12,,43.45,-74.5333
+27,BGBM4,"1MI.S BIG BAY,MI",209 meters,station snow depth,68.58,cm,2005-02-28 13,,46.8,-87.7333
+28,SVRW4,STAR VALLEY RANCH,1892 meters,station snow depth,66.04,cm,2005-02-28 14,,42.9031,-110.9828
+29,HRTM1,"HARTFORD,ME",217 meters,station snow depth,63.5,cm,2005-02-28 12,,44.3747,-70.3172
+30,BRIM1,"3MI.NNW BRIDGTON,ME",169 meters,station snow depth,63.5,cm,2005-02-28 12,,44.0667,-70.75
+31,DLH,"DULUTH, MN",437 meters,station snow depth,63.5,cm,2005-03-01 00,,46.8369,-92.2103
+32,GLKC2,"1MI.NW GRAND LAKE,CO",2672 meters,station snow depth,60.96,cm,2005-03-01 00,,40.2669,-105.8322
+33,BMKC2,BLUE MESA LAKE COOP,2317 meters,station snow depth,60.96,cm,2005-02-28 15,,38.4678,-107.1647
+34,BKCC2,BLACK CANYON OF THE GUNNISON,2493 meters,station snow depth,60.96,cm,2005-02-28 19,,38.5547,-107.6869
+35,DFXM1,"1MI.WSW DOVER-FOXCROFT,ME",115 meters,station snow depth,60.96,cm,2005-02-28 12,,45.1833,-69.25
+36,EDNV1,BEAN MOUNTAIN,409 meters,station snow depth,60.96,cm,2005-02-28 13,,44.6756,-72.5614
+37,BOON6,BLACK R NR,318 meters,station snow depth,60.96,cm,2005-02-28 12,,43.5167,-75.3
+38,EYPW4,YELLOWSTONE NP EAST ENT,2530 meters,station snow depth,60.96,cm,2005-02-28 14,,44.5075,-110.0003
+39,BRAM1,BRASSUA LAKE,334 meters,station snow depth,60.96,cm,2005-02-28 12,,45.6667,-69.8167
+40,BABM5,"BABBITT,MN",453 meters,station snow depth,60.96,cm,2005-02-28 13,,47.7103,-91.9442
+41,TRK,TRUCKEE AIRPORT,1794 meters,station snow depth,58.42,cm,2005-02-28 15,,39.3178,-120.1369
+42,HOKN6,HOOKER - 7MI.NNW,511 meters,station snow depth,58.42,cm,2005-02-28 11,,43.7667,-75.75
+43,KETI1,RANGER STATION,1792 meters,station snow depth,58.42,cm,2005-02-28 12,,43.6842,-114.3603
+44,ONOM4,"1MI.S ONTONAGON,MI",199 meters,station snow depth,58.42,cm,2005-03-01 01,,46.8578,-89.3133
+45,TOWM5,"3MI.S TOWER,MN",443 meters,station snow depth,58.42,cm,2005-02-28 13,,47.7553,-92.2858
+46,WLYM1,WESLEY,118 meters,station snow depth,55.88,cm,2005-02-28 11,,44.9511,-67.6664
+47,ESHM1,"EAST HIRAM,ME",128 meters,station snow depth,55.88,cm,2005-02-28 12,,43.8833,-70.8
+48,GHMN3,PINKHAM NOTCH,720 meters,station snow depth,55.88,cm,2005-02-28 12,,44.2667,-71.25
+49,WTNM4,"3MI.W WATTON,MI",436 meters,station snow depth,55.88,cm,2005-02-28 23,,46.5103,-88.6667
+50,PHEW3,DEERSKIN DAM,522 meters,station snow depth,55.88,cm,2005-02-28 12,,46.05,-89.0333
+51,LOKW3,LAND O LAKES 10W,526 meters,station snow depth,55.88,cm,2005-02-28 14,,46.1917,-89.4308
+52,FARM1,"1MI.NNW FARMINGTON,ME",180 meters,station snow depth,53.34,cm,2005-02-28 12,,44.6833,-70.15
+53,BETM1,P.O. BOX AT BETHEL,404 meters,station snow depth,53.34,cm,2005-02-28 11,,44.3167,-70.75
+54,LFTI1,LIFTON PUMPING STATION,1810 meters,station snow depth,53.34,cm,2005-02-28 14,,42.1231,-111.3139
+55,ANJ,SAULT STE MARIE,213 meters,station snow depth,53.34,cm,2005-03-01 00,,46.4667,-84.3667
+56,EMBM5,"EMBARASS,MN",432 meters,station snow depth,53.34,cm,2005-02-28 13,,47.6581,-92.1958
+57,MSXC2,MESA 6S,2366 meters,station snow depth,50.8,cm,2005-02-28 19,,39.0886,-108.1178
+58,FCLN3,FIRST CONNECTICUT LAKE,523 meters,station snow depth,50.8,cm,2005-02-28 12,,45.0833,-71.2833
+59,ALXN3,"ALEXANDRIA,NH",285 meters,station snow depth,50.8,cm,2005-02-28 12,,43.6403,-71.8022
+60,WORV1,WORCESTER 2 WEST,415 meters,station snow depth,50.8,cm,2005-02-28 14,,44.3758,-72.5822
+61,MRRN6,MORRISVILLE,447 meters,station snow depth,50.8,cm,2005-02-28 12,,42.85,-75.65
+62,HBGN6,HEIBERG FOREST,591 meters,station snow depth,50.8,cm,2005-02-28 13,,42.7667,-76.0833
+63,BWTN6,"3MI.WNW BREWERTON,NY",116 meters,station snow depth,50.8,cm,2005-02-28 12,,43.2333,-76.2
+64,LILW3,LILY-2 NE,447 meters,station snow depth,50.8,cm,2005-02-28 15,,45.3272,-88.8331
+65,CKSM4,COOKS 2NE,235 meters,station snow depth,50.8,cm,2005-02-28 13,,45.9417,-86.4425
+66,FLKM4,FORTUNE LAKE,432 meters,station snow depth,50.8,cm,2005-03-01 01,,46.095,-88.4258
+67,PSQW3,PRESQUE ISLE 4 SW,506 meters,station snow depth,50.8,cm,2005-02-28 18,,46.1992,-89.7728
+68,FEDM5,LEECH LAKE DAM,400 meters,station snow depth,50.8,cm,2005-02-28 14,,47.2467,-94.2228
+69,ISLV1,"ISLAND POND,VT",377 meters,station snow depth,48.26,cm,2005-02-28 15,,44.8167,-71.8667
+70,INDN6,INDIAN LAKE,503 meters,station snow depth,48.26,cm,2005-02-28 11,,43.755,-74.2756
+71,GREM1,SEBEC LAKE,134 meters,station snow depth,48.01,cm,2005-02-28 21,,45.25,-69.2333
+72,BOCC1,BOCA,1700 meters,station snow depth,45.72,cm,2005-02-28 15,,39.3886,-120.0936
+73,POLM1,"POLAND,ME",173 meters,station snow depth,45.72,cm,2005-02-28 12,,44.0075,-70.3619
+74,EUSM1,"EUSTIS,ME",364 meters,station snow depth,45.72,cm,2005-02-28 12,,45.2167,-70.4833
+75,NEDM1,CAPE NEDDICK,58 meters,station snow depth,45.72,cm,2005-02-28 12,,43.2356,-70.635
+76,RANM1,"1MI.ENE RANGELEY,ME",464 meters,station snow depth,45.72,cm,2005-02-28 11,,44.9667,-70.65
+77,HOLM1,"4MI.W WEST BUXTON,ME",97 meters,station snow depth,45.72,cm,2005-02-28 12,,43.65,-70.6667
+78,HGHN6,HIGH MARKET,526 meters,station snow depth,45.72,cm,2005-02-28 10,,43.5667,-75.5167
+79,HOWO3,HOWARD PRAIRIE DAM,1427 meters,station snow depth,45.72,cm,2005-02-28 16,,42.2292,-122.3814
+80,HURW3,"HURLEY,WI",439 meters,station snow depth,45.72,cm,2005-02-28 14,,46.4608,-90.1953
+81,RLWM5,CAMP NORRIS DNR,391 meters,station snow depth,45.72,cm,2005-02-28 13,,48.61,-95.1817
+82,LFKM5,LITTLE FORK RIVER,339 meters,station snow depth,45.72,cm,2005-02-28 14,,48.4,-93.55
+83,KABM5,KABETOGAMA LAKE VISITOR CTR,378 meters,station snow depth,45.72,cm,2005-02-28 14,,46.4456,-93.0283
+84,LEVC1,"LEE VINING,CA",2082 meters,station snow depth,43.18,cm,2005-02-28 17,,37.9567,-119.1194
+85,ROBM1,"ROBBINSTON,ME",46 meters,station snow depth,43.18,cm,2005-03-01 05,,45.0858,-67.1222
+86,BRNM1,"6MI.WSW BROWNVILLE,ME",150 meters,station snow depth,43.18,cm,2005-02-28 12,,45.2833,-69.15
+87,ALBM1,"ALBION,ME",90 meters,station snow depth,43.18,cm,2005-02-28 12,,44.4833,-69.4833
+88,DURM1,"DURHAM,ME",47 meters,station snow depth,43.18,cm,2005-02-28 10,,43.9869,-70.055
+89,RUM,RUMFORD ME,305 meters,station snow depth,43.18,cm,2005-02-28 12,,44.53306,-70.53305999999999
+90,NCBN6,"3MI.E NEWCOMB,NY",493 meters,station snow depth,43.18,cm,2005-02-28 14,,43.9667,-74.1
+91,KSAW3,KESHENA,269 meters,station snow depth,43.18,cm,2005-02-28 14,,44.8906,-88.6625
+92,Y88W3,MERRILL,386 meters,station snow depth,43.18,cm,2005-02-28 13,,45.1833,-89.7
+93,CASI1,CASCADE 1 NW,1489 meters,station snow depth,43.18,cm,2005-02-28 18,,44.5228,-116.0481
+94,PORM1,PORTAGE LAKE,207 meters,station snow depth,43.18,cm,2005-02-28 12,,46.8,-68.4833
+95,MRAM4,MORAN,207 meters,station snow depth,43.18,cm,2005-02-28 13,,45.9903,-84.8361
+96,GLDM4,GLADSTONE,215 meters,station snow depth,43.18,cm,2005-02-28 11,,45.8128,-87.0619
+97,LGKW3,LONG LAKE 3-NE,455 meters,station snow depth,43.18,cm,2005-02-28 12,,45.8825,-88.6314
+98,THRW3,"1MI.SSE HILES,WI",506 meters,station snow depth,43.18,cm,2005-02-28 14,,45.665,-88.9614
+99,LNGN8,EXPERIMENTAL FARM,496 meters,station snow depth,43.18,cm,2005-02-28 14,,48.75,-98.3333
+100,NDLC2,AMRAD,2542 meters,station snow depth,40.64,cm,2005-02-28 14,,39.9644,-105.5189
+101,WIFC2,WILLIAMS FORK DAM,2334 meters,station snow depth,40.64,cm,2005-02-28 15,,40.0375,-106.203
+102,BPTC1,BRIDGEPORT,1977 meters,station snow depth,40.64,cm,2005-02-28 15,,38.2575,-119.2286
+103,TOPM1,"TOPSFIELD,ME",114 meters,station snow depth,40.64,cm,2005-02-28 12,,45.4167,-67.7167
+104,HMYM1,"HARMONY,ME",138 meters,station snow depth,40.64,cm,2005-02-28 12,,44.9333,-69.5667
+105,NWSM1,"9MI.E NEW SHARON,ME",148 meters,station snow depth,40.64,cm,2005-02-28 12,,44.6333,-70.0
+106,GYX,"PORTLAND, ME",117 meters,station snow depth,40.64,cm,2005-02-28 12,,43.8925,-70.255
+107,BRLN3,"BERLIN,NH",300 meters,station snow depth,40.64,cm,2005-02-28 12,,44.45,-71.1833
+108,JEFV1,SITE LOCATED NEXT TO BREWSTER RVR,359 meters,station snow depth,40.64,cm,2005-02-28 13,,44.5842,-72.7878
+109,PLEP1,"1MI.W PLEASANT MOUNT,PA",593 meters,station snow depth,40.64,cm,2005-02-28 12,,41.7333,-75.45
+110,WSMN6,"3MI.W WEST MONROE,NY",130 meters,station snow depth,40.64,cm,2005-02-28 11,,43.2667,-76.05
+111,VANM4,"11MI.NE VANDERBILT,MI",276 meters,station snow depth,40.64,cm,2005-02-28 13,,45.1703,-84.45
+112,HTL,"HOUGHTON LAKE,MI",349 meters,station snow depth,40.64,cm,2005-03-01 00,,44.35,-84.6667
+113,GDCM4,GARDEN CORNERS,174 meters,station snow depth,40.64,cm,2005-02-28 13,,45.8983,-86.5483
+114,PRQW3,PRESQUE ISLE,510 meters,station snow depth,40.64,cm,2005-02-28 13,,46.2478,-89.7292
+115,TAKW3,RICE RESERVOIR NO. 2,453 meters,station snow depth,40.64,cm,2005-02-28 13,,45.5264,-89.7522
+116,GLLM5,DAM,373 meters,station snow depth,40.64,cm,2005-02-28 14,,46.4119,-94.35
+117,KBPM1,"KENNEBUNKPORT,ME",22 meters,station snow depth,38.1,cm,2005-02-28 13,,43.35,-70.4667
+118,NCON3,"NORTH CONWAY,NH",141 meters,station snow depth,38.1,cm,2005-02-28 12,,44.05,-71.1333
+119,FRKN6,"18MI.N OLEAN,NY",484 meters,station snow depth,38.1,cm,2005-02-28 12,,42.3333,-78.4667
+120,LTVN6,"LITTLE VALLEY,NY",502 meters,station snow depth,38.1,cm,2005-02-28 12,,42.2464,-78.8
+121,WMAW3,"4MI.N WAUTOMA,WI",321 meters,station snow depth,38.1,cm,2005-02-28 13,,44.1167,-89.2833
+122,PATM1,PATTEN,247 meters,station snow depth,38.1,cm,2005-02-28 11,,46.0268,-68.5
+123,ELOW3,ELCHO,500 meters,station snow depth,38.1,cm,2005-02-28 15,,45.4464,-89.1711
+124,LLLM5,LONG LOST LAKE MN,510 meters,station snow depth,38.1,cm,2005-02-28 13,,47.1961,-95.4206
+125,FLDM5,"4MI.N FLOODWOOD,MN",381 meters,station snow depth,38.1,cm,2005-02-28 13,,47.0,-92.9167
+126,RLVC2,AMRAD,2648 meters,station snow depth,35.56,cm,2005-02-28 14,,39.9231,-105.5128
+127,LOIN2,LAMOILLE 2N,1754 meters,station snow depth,35.56,cm,2005-02-28 18,,40.7447,-115.4861
+128,CORM1,"CORINNA,ME",84 meters,station snow depth,35.56,cm,2005-02-28 11,,44.9167,-69.2667
+129,GULM1,"GUILFORD,ME",131 meters,station snow depth,35.56,cm,2005-02-28 12,,45.1667,-69.3833
+130,BETV1,"4MI.N BETHEL,VT",222 meters,station snow depth,35.56,cm,2005-02-28 12,,43.8833,-72.6333
+131,ENFV1,"ENOSBURG FALLS,VT",155 meters,station snow depth,35.56,cm,2005-02-28 10,,44.9,-72.8167
+132,WRBN6,WARRENSBURG,235 meters,station snow depth,35.56,cm,2005-02-28 13,,43.5003,-73.7756
+133,RHAN6,ALLEGANY STATE PARK,466 meters,station snow depth,35.56,cm,2005-02-28 12,,42.1008,-78.75
+134,APN,PHELPS COLLINS FIELD,204 meters,station snow depth,35.56,cm,2005-03-01 00,,45.0781,-83.5603
+135,Y82W3,BAILEYS HARBOR,214 meters,station snow depth,35.56,cm,2005-02-28 13,,45.06667,-87.13333
+136,MOUW3,MOUNTAIN 1 SW,284 meters,station snow depth,35.56,cm,2005-02-28 14,,45.1722,-88.4939
+137,AURW3,AURORA,359 meters,station snow depth,35.56,cm,2005-02-28 13,,45.77,-88.1181
+138,RHI,RHINELANDER-ONEIDA COUNTY AIRPORT,487 meters,station snow depth,35.56,cm,2005-02-28 12,,45.6308,-89.4653
+139,CRLM5,DAM,384 meters,station snow depth,35.56,cm,2005-02-28 14,,46.6667,-94.1167
+140,ONMM5,RANGER STATION,386 meters,station snow depth,35.56,cm,2005-02-28 14,,46.0672,-93.6667
+141,NFKC3,REFERENCE CLIMATE STATION,426 meters,station snow depth,33.02,cm,2005-02-28 13,,41.9725,-73.2208
+142,COSN6,CONSTANTIA 6N,182 meters,station snow depth,33.02,cm,2005-02-28 12,,43.3425,-76.0006
+143,FLAM4,"1MI.NNW FIFE LAKE,MI",324 meters,station snow depth,33.02,cm,2005-03-01 02,,44.5844,-85.35
+144,PESW3,"PESHTIGO,WI",191 meters,station snow depth,33.02,cm,2005-02-28 13,,45.0667,-87.7333
+145,CRIW3,HIGH FALLS,284 meters,station snow depth,33.02,cm,2005-02-28 13,,45.2833,-88.1919
+146,WROW3,WILD ROSE-6 NE-TWIN LAKES,287 meters,station snow depth,33.02,cm,2005-02-28 13,,44.2319,-89.1436
+147,WPAW3,WAUPACA-3 SW - KING,287 meters,station snow depth,33.02,cm,2005-02-28 12,,44.3311,-89.1469
+148,VANM1,"VAN BUREN,ME",140 meters,station snow depth,33.02,cm,2005-02-28 12,,47.1667,-67.9333
+149,FISM1,"1MI.E FORT KENT,ME",159 meters,station snow depth,33.02,cm,2005-02-28 13,,47.25,-68.5833
+150,HRRW3,"HARRISON,WI",484 meters,station snow depth,33.02,cm,2005-02-28 13,,45.4833,-89.5
+151,RVBQ1,RIVIERE BLEUE,214 meters,station snow depth,31.0,cm,2005-02-28 13,,47.43333,-69.03333
+152,TURM1,TURNER,169 meters,station snow depth,30.48,cm,2005-02-28 12,,44.2822,-70.2561
+153,LACN3,LACONIA,89 meters,station snow depth,30.48,cm,2005-02-28 12,,42.53083,-71.46417
+154,SLSN3,"OUTSIDE & NW OF P.O @ PENNACOOK, NH",202 meters,station snow depth,30.48,cm,2005-02-28 12,,43.3553,-71.5006
+155,STNV1,"3MI.NE SUTTON,VT",329 meters,station snow depth,30.48,cm,2005-02-28 12,,44.6647,-72.0219
+156,NPTV1,"NEWPORT,VT",232 meters,station snow depth,30.48,cm,2005-02-28 12,,44.9333,-72.2
+157,TLLM3,TULLY LAKE/USACOE DAM,247 meters,station snow depth,30.48,cm,2005-02-28 12,,42.6333,-72.2167
+158,CHLV1,CHELSEA 1.9 NORTHWEST,439 meters,station snow depth,30.48,cm,2005-02-28 13,,44.0108,-72.4833
+159,NCKN6,"RIPARIOUS,NY",268 meters,station snow depth,30.48,cm,2005-02-28 12,,43.6611,-73.8969
+160,LOWN6,"LOWVILLE,NY",378 meters,station snow depth,30.48,cm,2005-02-28 12,,43.75,-75.5
+161,PRGN6,PERRYSBURG,373 meters,station snow depth,30.48,cm,2005-02-28 12,,42.4647,-79.0031
+162,APXM4,S. 1.4MI. OTSEGO LAKE,443 meters,station snow depth,30.48,cm,2005-02-28 12,,44.9075,-84.7194
+163,CVZW3,WISCONSIN PUBLIC SERVICE,209 meters,station snow depth,30.48,cm,2005-02-28 17,,45.2353,-88.0136
+164,RANU1,RANDOLPH COOPC,1923 meters,station snow depth,30.48,cm,2005-02-28 12,,41.6722,-111.1936
+165,WABM1,WASHBURN #2 17-9020-01,171 meters,station snow depth,30.48,cm,2005-02-28 12,,46.814,-68.163
+166,MLTM1,"MILLINOCKET,ME",122 meters,station snow depth,30.48,cm,2005-02-28 12,,45.65,-68.7
+167,ARRW3,AURORA-4W,396 meters,station snow depth,30.48,cm,2005-02-28 17,,45.7903,-88.1786
+168,Y55W3,RHINELANDER,488 meters,station snow depth,30.48,cm,2005-02-28 13,,45.6167,-89.35
+169,CVLN8,"7MI.NW CAVALIER,ND",272 meters,station snow depth,30.48,cm,2005-02-28 13,,48.8631,-97.7014
+170,DGSQ1,DEGELIS,143 meters,station snow depth,28.0,cm,2005-02-28 13,,47.56667,-68.63333
+171,WALM3,SITE #2,51 meters,station snow depth,27.94,cm,2005-02-28 12,,42.1667,-71.25
+172,BARN3,"1MI.SW BARNSTEAD,NH",242 meters,station snow depth,27.94,cm,2005-02-28 13,,43.3167,-71.2833
+173,MVLV1,"4MI.SSW MORRISVILLE,VT",229 meters,station snow depth,27.94,cm,2005-02-28 11,,44.5139,-72.6244
+174,PROP1,DAM,378 meters,station snow depth,27.94,cm,2005-02-28 12,,41.5833,-75.3333
+175,SUVN6,SYRACUSE UNIVERSITY,181 meters,station snow depth,27.94,cm,2005-02-28 12,,43.0331,-76.1336
+176,WRSN6,BATAVIA-OATKA CK NR,640 meters,station snow depth,27.94,cm,2005-02-28 12,,41.75,-78.1333
+177,CLMP1,CLERMONT 1 NW,652 meters,station snow depth,27.94,cm,2005-02-28 12,,41.6961,-78.4878
+178,KANP1,"1MI.NNE KANE,PA",614 meters,station snow depth,27.94,cm,2005-02-28 12,,41.6833,-78.8
+179,NALN6,"2MI.SW NEW ALBION,NY",585 meters,station snow depth,27.94,cm,2005-02-28 12,,42.3167,-78.9167
+180,ALPM4,5.5MI.NNW FRM ALPENA RGAL ARPT,220 meters,station snow depth,27.94,cm,2005-02-28 13,,45.1617,-83.5922
+181,SBEW3,EXP. FARM,208 meters,station snow depth,27.94,cm,2005-02-28 13,,44.8667,-87.3333
+182,Y80W3,GREEN BAY,178 meters,station snow depth,27.94,cm,2005-02-28 13,,44.51667,-87.98333000000001
+183,LKWW3,"3MI.NE LAKEWOOD,WI",376 meters,station snow depth,27.94,cm,2005-02-28 14,,45.3333,-88.5
+184,PLVW3,"PLOVER,WI",330 meters,station snow depth,27.94,cm,2005-02-28 13,,44.45,-89.5333
+185,PLOW3,PLOVER,329 meters,station snow depth,27.94,cm,2005-02-28 14,,44.4428,-89.5453
+186,MROW3,MONROE CENTER 1E,293 meters,station snow depth,27.94,cm,2005-02-28 13,,44.1119,-89.9192
+187,OWEW3,OWEN 3W,389 meters,station snow depth,27.94,cm,2005-02-28 14,,44.9801,-90.5544
+188,HTFW3,HATFIELD,273 meters,station snow depth,27.94,cm,2005-02-28 13,,44.4169,-90.7314
+189,Y66W3,PHILLIPS,464 meters,station snow depth,27.94,cm,2005-02-28 13,,45.6333,-90.4
+190,GRTC2,"1MI.W GRANT,CO",2658 meters,station snow depth,25.4,cm,2005-02-28 14,,39.4607,-105.678
+191,YORN3,YORK POND ST FISH HATCHERY,455 meters,station snow depth,25.4,cm,2005-02-28 12,,44.5,-71.3333
+192,PLYN3,"1MI.E PLYMOUTH,NH",308 meters,station snow depth,25.4,cm,2005-02-28 12,,43.7833,-71.65
+193,WORM3,"2MI.S WORTHINGTON,MA",394 meters,station snow depth,25.4,cm,2005-02-28 12,,42.3833,-72.9167
+194,RUTV1,"RUTLAND,VT",215 meters,station snow depth,25.4,cm,2005-02-28 12,,43.6167,-72.9667
+195,SLDN6,SLIDE MOUNTAIN,958 meters,station snow depth,25.4,cm,2005-02-28 12,,42.0167,-74.4167
+196,AUBN6,"1MI.E AUBURN,NY",241 meters,station snow depth,25.4,cm,2005-02-28 12,,42.9167,-76.5333
+197,WCLM4,"4MI.SE WHITE CLOUD, MI",309 meters,station snow depth,25.4,cm,2005-02-28 12,,43.7,-85.7
+198,HSPM4,"4MI.WNW HESPERIA,MI",237 meters,station snow depth,25.4,cm,2005-02-28 12,,43.5833,-86.1
+199,SCTM4,PERE MARQUETTE RIVER,207 meters,station snow depth,25.4,cm,2005-02-28 12,,43.95,-86.2833
+200,Y12W3,STEVENS POINT-WHITING,333 meters,station snow depth,25.4,cm,2005-02-28 13,,44.496390000000005,-89.54417
+201,AUW,WAUSAU MUNICIPAL AIRPORT,368 meters,station snow depth,25.4,cm,2005-02-28 12,,44.9258,-89.6256
+202,Y65W3,PARK FALLS,454 meters,station snow depth,25.4,cm,2005-02-28 13,,45.9333,-90.45
+203,Y72W3,CUMBERLAND,374 meters,station snow depth,25.4,cm,2005-02-28 13,,45.5333,-92.0167
+204,RDLM5,CLEARWATER R @ RED LAKE FALLS,316 meters,station snow depth,25.4,cm,2005-02-28 13,,47.8833,-96.2833
+205,SLAM8,SULA 14 NE,1574 meters,station snow depth,25.4,cm,2005-02-28 18,,45.9106,-113.7383
+206,POWI1,POWELL,1042 meters,station snow depth,25.4,cm,2005-02-28 15,,46.51,-114.7111
+207,MZAW1,MAZAMA,666 meters,station snow depth,25.4,cm,2005-03-01 03,,48.6047,-120.4497
+208,BBLC1,BIG BEAR LAKE,2071 meters,station snow depth,22.86,cm,2005-03-01 02,,34.2442,-116.9039
+209,CNRC2,AMRAD,2690 meters,station snow depth,22.86,cm,2005-02-28 14,,39.5477,-105.3625
+210,GUNC2,GUNNISON COOP,2334 meters,station snow depth,22.86,cm,2005-02-28 15,,38.5297,-106.9664
+211,GUXC2,AMRAD,2315 meters,station snow depth,22.86,cm,2005-02-28 14,,38.5167,-107.0
+212,GRHN3,GORHAM 2,338 meters,station snow depth,22.86,cm,2005-02-28 12,,44.3903,-71.2269
+213,WTHN6,"WHITEHALL,NY",35 meters,station snow depth,22.86,cm,2005-02-28 13,,43.55,-73.4
+214,STMN6,"2MI.S STROMVILLE,NY",246 meters,station snow depth,22.86,cm,2005-03-01 03,,41.5333,-73.7333
+215,ELBN6,"ELLENBURG DEPOT,NY",258 meters,station snow depth,22.86,cm,2005-02-28 12,,44.9,-73.7944
+216,COPN6,"1MI.S COOPERSTOWN,NY",384 meters,station snow depth,22.86,cm,2005-02-28 12,,42.7,-74.9167
+217,ITHN6,"3MI.ENE ITHACA,NY",295 meters,station snow depth,22.86,cm,2005-02-28 12,,42.45,-76.45
+218,PHPM4,LAKE HURON/DIAMONDALE CRK,228 meters,station snow depth,22.86,cm,2005-02-28 14,,43.8558,-82.9892
+219,ETWM4,"EAST TAWAS,MI",176 meters,station snow depth,22.86,cm,2005-02-28 13,,44.2844,-83.5033
+220,SWLM4,SOUTHWEST HOUGHTON LAKE,352 meters,station snow depth,22.86,cm,2005-02-28 12,,44.3122,-84.7747
+221,FREM4,"4MI.WSW FREMONT,MI",251 meters,station snow depth,22.86,cm,2005-02-28 13,,43.45,-86.0333
+222,MKG,"MUSKEGON,MI",192 meters,station snow depth,22.86,cm,2005-03-01 00,,43.1694,-86.2381
+223,GOMW3,ALGOMA,191 meters,station snow depth,22.86,cm,2005-02-28 12,,44.6147,-87.4369
+224,OCFW3,OCONTO ELETRIC COOPERATIVE,219 meters,station snow depth,22.86,cm,2005-02-28 13,,44.8975,-88.1278
+225,STPW3,"STEVENS POINT,WI",335 meters,station snow depth,22.86,cm,2005-02-28 13,,44.5167,-89.5167
+226,WIRW3,GRAND AVENUE B,312 meters,station snow depth,22.86,cm,2005-02-28 13,,44.4,-89.8167
+227,BURW4,BURGESS JUNCTION,2451 meters,station snow depth,22.86,cm,2005-02-28 14,,44.7753,-107.5219
+228,PNAW4,PINEDALE 1N,2249 meters,station snow depth,22.86,cm,2005-02-28 14,,42.88,-109.8542
+229,HCKM5,HINCKLEY,-9999 meters,station snow depth,22.86,cm,2005-02-28 12,,45.9922,-92.9925
+230,HAWP1,"HAWLEY,PA",344 meters,station snow depth,21.34,cm,2005-02-28 12,,41.4833,-75.1667
+231,COAP1,"2MI.E COATSVILLE,PA",108 meters,station snow depth,20.32,cm,2005-03-01 05,,39.9833,-75.4167
+232,LAUP1,1.5MI S OF RT 30 ON SMIT (LAUREL RIDGE),696 meters,station snow depth,20.32,cm,2005-02-28 11,,40.05,-79.2206
+233,RYEC2,RYE 1 SW,2176 meters,station snow depth,20.32,cm,2005-03-01 03,,37.9139,-104.9478
+234,GCRC2,CABIN CREEK,3318 meters,station snow depth,20.32,cm,2005-02-28 13,,39.6552,-105.708
+235,WVLM1,"WATERVILLE,ME",20 meters,station snow depth,20.32,cm,2005-02-28 14,,44.5278,-69.6539
+236,WPTM1,WESTPORT ISLAND,33 meters,station snow depth,20.32,cm,2005-02-28 13,,43.8881,-69.7089
+237,BDDN3,"3MI.WSW BRADFORD,NH",252 meters,station snow depth,20.32,cm,2005-02-28 12,,43.2581,-72.0028
+238,LOCN6,"LOCKE,NY",435 meters,station snow depth,20.32,cm,2005-02-28 12,,42.6,-76.4
+239,MECN6,MECKLENBURG,475 meters,station snow depth,20.32,cm,2005-02-28 12,,42.4333,-76.75
+240,ANGN6,"ANGELICA,NY",447 meters,station snow depth,20.32,cm,2005-02-28 12,,42.3014,-78.0167
+241,CDRP1,"COUDERSPORT,PA",502 meters,station snow depth,20.32,cm,2005-02-28 12,,41.7683,-78.0269
+242,WLSN6,"2MI.S WALES CENTER,NY",333 meters,station snow depth,20.32,cm,2005-02-28 12,,42.7417,-78.5097
+243,WLXP1,"GLEN HAZEL,PA",592 meters,station snow depth,20.32,cm,2005-02-28 12,,41.5667,-78.6
+244,GLHP1,GLEN HAZEL,500 meters,station snow depth,20.32,cm,2005-02-28 12,,41.53,-78.6
+245,SLMN6,"SALAMANCA,NY",542 meters,station snow depth,20.32,cm,2005-02-28 12,,42.1167,-78.75
+246,WBRM4,"3MI.SE WEST BRANCH,MI",269 meters,station snow depth,20.32,cm,2005-02-28 13,,44.2539,-84.2011
+247,KLKM4,"KALASKA,MI",315 meters,station snow depth,20.32,cm,2005-02-28 13,,44.7275,-85.1731
+248,LKCM4,EXP FARM,377 meters,station snow depth,20.32,cm,2005-02-28 13,,44.3167,-85.2
+249,ROCM4,"3MI.SW ROCKFORD,MI",194 meters,station snow depth,20.32,cm,2005-02-28 12,,43.0833,-85.6
+250,FORW3,FORESTVILLE-4E,210 meters,station snow depth,20.32,cm,2005-02-28 14,,44.6978,-87.3969
+251,FRAW3,FRANCIS CREEK,222 meters,station snow depth,20.32,cm,2005-02-28 12,,44.2006,-87.7192
+252,KIMW3,KIMBERLY,227 meters,station snow depth,20.32,cm,2005-02-28 15,,44.2672,-88.3361
+253,MEDW3,MEDFORD,425 meters,station snow depth,20.32,cm,2005-02-28 14,,45.1308,-90.3439
+254,FLNW3,"FLORENCE,WI",399 meters,station snow depth,20.32,cm,2005-02-28 13,,45.925,-88.2569
+255,Y20W3,SARONA,381 meters,station snow depth,20.32,cm,2005-02-28 13,,45.72,-91.76971999999999
+256,ALMN6,ALMA,551 meters,station snow depth,19.05,cm,2005-02-28 12,,42.0167,-78.05
+257,GAAV2,"1MI.SE GALAX,VA",718 meters,station snow depth,17.78,cm,2005-02-28 13,,36.65,-80.9167
+258,TROV2,"3MI.SSE TROUT DALE,VA",827 meters,station snow depth,17.78,cm,2005-02-28 11,,36.6667,-81.4
+259,BOON7,"BOONE,NC",1055 meters,station snow depth,17.78,cm,2005-02-28 12,,36.2,-81.7
+260,CHTN4,CHATHAM,111 meters,station snow depth,17.78,cm,2005-02-28 12,,40.7439,-74.4158
+261,BKBW2,DAVIS.,1136 meters,station snow depth,17.78,cm,2005-02-28 15,,39.0983,-79.4319
+262,BLYC2,"BAILEY,CO",2394 meters,station snow depth,17.78,cm,2005-02-28 15,,39.4047,-105.4767
+263,LENN2,GREAT BASIN NATL PARK,2128 meters,station snow depth,17.78,cm,2005-02-28 18,,39.0092,-114.2267
+264,BLMN3,"2MI.NE BETHLEHEM,NH",404 meters,station snow depth,17.78,cm,2005-02-28 12,,44.3,-71.65
+265,NEWN3,"1MI.NW NEWPORT,NH",238 meters,station snow depth,17.78,cm,2005-02-28 12,,43.3833,-72.1833
+266,WDSV1,"1MI.E WOODSTOCK,VT",240 meters,station snow depth,17.78,cm,2005-02-28 13,,43.6217,-72.4544
+267,ROCV1,"ROCHESTER,VT",249 meters,station snow depth,17.78,cm,2005-02-28 12,,43.85,-72.8
+268,BAKC3,NEW HARTFORD-1MI.E NEPAUG RIVER,196 meters,station snow depth,17.78,cm,2005-02-28 12,,41.8417,-73.0103
+269,MALN6,"1MI.SW MALONE,NY",226 meters,station snow depth,17.78,cm,2005-02-28 12,,44.85,-74.3
+270,MNTN4,"2MI.S MILFORD,PA",164 meters,station snow depth,17.78,cm,2005-02-28 13,,41.3,-74.8
+271,MTRP1,"MONTROSE,PA",482 meters,station snow depth,17.78,cm,2005-02-28 12,,41.8333,-75.8667
+272,LAPP1,"LAPORTE,PA",599 meters,station snow depth,17.78,cm,2005-02-28 12,,41.4247,-76.4925
+273,GENN6,"3MI.W GENEVA,NY",212 meters,station snow depth,17.78,cm,2005-02-28 13,,42.8778,-77.0303
+274,PAVN6,PAVILION,288 meters,station snow depth,17.78,cm,2005-02-28 12,,42.9295,-78.032
+275,FNDN6,"18MI.NE OLEAN,NY",563 meters,station snow depth,17.78,cm,2005-02-28 12,,42.1333,-78.2333
+276,JSTN6,"4MI.NE JAMESTOWN,NY",387 meters,station snow depth,17.78,cm,2005-02-28 12,,42.1361,-79.2047
+277,LOWP1,LOWVILLE,404 meters,station snow depth,17.78,cm,2005-02-28 12,,42.03,-79.82
+278,RICM4,RICHMOND 4 NNW,232 meters,station snow depth,17.78,cm,2005-02-28 13,,42.8783,-82.7958
+279,PCNM4,PINCONNING WWTP,178 meters,station snow depth,17.78,cm,2005-02-28 13,,43.8567,-83.9561
+280,AUBM4,AUBURN 2NE,182 meters,station snow depth,17.78,cm,2005-02-28 11,,43.6253,-84.0189
+281,GLAM4,"GLADWIN,MI",254 meters,station snow depth,17.78,cm,2005-02-28 12,,43.9756,-84.5
+282,BDMM4,SOUTH BOARDMAN 2W,317 meters,station snow depth,17.78,cm,2005-02-28 14,,44.6394,-85.3244
+283,BGRM4,WATER WORKS,281 meters,station snow depth,17.78,cm,2005-02-28 12,,43.7,-85.4833
+284,GRR,"GRAND RAPIDS, MI",242 meters,station snow depth,17.78,cm,2005-03-01 00,,42.8939,-85.5447
+285,TCMM4,TRAVERSE CITY MUNSON,191 meters,station snow depth,17.78,cm,2005-02-28 12,,44.7606,-85.6442
+286,NWFM4,NW MICHIGAN RES FARM,244 meters,station snow depth,17.78,cm,2005-02-28 13,,44.8822,-85.6758
+287,WASW3,"WASHINGTON ISLAND,WI",203 meters,station snow depth,17.78,cm,2005-02-28 13,,45.3667,-86.9333
+288,MOCW3,MANITOWOC,194 meters,station snow depth,17.78,cm,2005-02-28 13,,44.0794,-87.6781
+289,APLW3,RADIO STATION NEARBY,235 meters,station snow depth,17.78,cm,2005-02-28 13,,44.2511,-88.3644
+290,APPW3,APPLETON NORTHWEST,242 meters,station snow depth,17.78,cm,2005-02-28 13,,44.2786,-88.4386
+291,MFDW3,"MARSHFIELD,WI",368 meters,station snow depth,17.78,cm,2005-02-28 13,,44.6333,-90.1
+292,SANI1,SAINT ANTHONY 1 WNW,1509 meters,station snow depth,17.78,cm,2005-02-28 14,,43.9694,-111.7128
+293,BCHN7,FRED'S STORE,1542 meters,station snow depth,15.24,cm,2005-02-28 12,,36.1878,-81.8736
+294,FRRV2,"1MI.ESE FRONT ROYAL,VA",183 meters,station snow depth,15.24,cm,2005-03-01 05,,38.9167,-78.1833
+295,MCHM2,MCHENRY,833 meters,station snow depth,15.24,cm,2005-02-28 12,,39.5833,-79.37
+296,SNOW2,SNOWSHOE,1417 meters,station snow depth,15.24,cm,2005-02-28 11,,38.4239,-79.9942
+297,COHV2,"1MI.NNE COPPER HILL,VA",814 meters,station snow depth,15.24,cm,2005-02-28 11,,37.1,-80.1333
+298,WYTV2,"1MI.S WYTHEVILLE,VA",637 meters,station snow depth,15.24,cm,2005-02-28 12,,36.9317,-81.0833
+299,TCPC2,TROUT CREEK PASS,2880 meters,station snow depth,15.24,cm,2005-02-28 14,,38.9064,-105.96
+300,FOXM3,"FOXBORO,MA",45 meters,station snow depth,15.24,cm,2005-02-28 12,,42.0333,-71.1167
+301,MWN,MOUNT WASHINGTON,1715 meters,station snow depth,15.24,cm,2005-02-28 12,,44.2667,-71.3
+302,COLN3,"COLEBROOK,NH",351 meters,station snow depth,15.24,cm,2005-02-28 12,,44.9,-71.4833
+303,PIKN3,BENTON 5MI.SW,425 meters,station snow depth,15.24,cm,2005-02-28 11,,44.0333,-71.9333
+304,WALN3,"1MI.ESE WALPOLE,NH",244 meters,station snow depth,15.24,cm,2005-02-28 12,,43.0667,-72.4
+305,PHON6,PHOENICIA 2SW,469 meters,station snow depth,15.24,cm,2005-02-28 12,,42.0642,-74.3408
+306,DELN6,"2MI.SSE DELHI,NY",471 meters,station snow depth,15.24,cm,2005-02-28 12,,42.25,-74.9
+307,SSQP1,"SUSQUEHANNA,PA",280 meters,station snow depth,15.24,cm,2005-02-28 12,,41.95,-75.6
+308,SPNN6,RESIDENCE OUTSIDE THE CITY,381 meters,station snow depth,15.24,cm,2005-02-28 12,,42.2167,-76.4667
+309,CHLN6,CHARLOTTE,117 meters,station snow depth,15.24,cm,2005-02-28 12,,43.2338,-77.6223
+310,WHTN6,"WHITESVILLE,NY",524 meters,station snow depth,15.24,cm,2005-02-28 12,,42.0383,-77.7619
+311,WHCP1,WEST HICKORY,415 meters,station snow depth,15.24,cm,2005-02-28 12,,41.5764,-79.4106
+312,MTC,MT CLEMONS (ANGB),174 meters,station snow depth,15.24,cm,2005-03-01 05,,42.6,-82.8167
+313,CAPM4,CAPAC 3W,249 meters,station snow depth,15.24,cm,2005-02-28 13,,43.0161,-82.9894
+314,PONM4,STATE HOSPITAL,295 meters,station snow depth,15.24,cm,2005-02-28 12,,42.65,-83.3
+315,DTX,"DETROIT, MI",324 meters,station snow depth,15.24,cm,2005-03-01 00,,42.6869,-83.4717
+316,STAM4,"4MI.SSE STANDISH,MI",182 meters,station snow depth,15.24,cm,2005-02-28 11,,43.9333,-83.9333
+317,SKYM4,SPARTA SKYVIEW,258 meters,station snow depth,15.24,cm,2005-02-28 12,,43.1428,-85.7158
+318,GPDM4,44TH STREET,188 meters,station snow depth,15.24,cm,2005-02-28 12,,42.9,-85.7667
+319,KEWW3,"KEWAUNEE,WI",211 meters,station snow depth,15.24,cm,2005-02-28 13,,44.4333,-87.5167
+320,VALW3,VALDERS,255 meters,station snow depth,15.24,cm,2005-02-28 13,,44.0664,-87.8797
+321,HINW3,HINGHAM,235 meters,station snow depth,15.24,cm,2005-02-28 15,,43.6406,-87.9106
+322,ASTW3,ATHELSTANE,292 meters,station snow depth,15.24,cm,2005-02-28 13,,45.425,-88.0575
+323,MLCW3,GREEN BAY 9 NW MILL CENTER,231 meters,station snow depth,15.24,cm,2005-02-28 13,,44.5889,-88.1686
+324,Y07W3,WEST BEND 2NW,288 meters,station snow depth,15.24,cm,2005-02-28 14,,43.45361,-88.20333000000001
+325,HORW3,"HORICON,WI",264 meters,station snow depth,15.24,cm,2005-02-28 13,,43.45,-88.6333
+326,SHAW3,"SHAWANO,WI",255 meters,station snow depth,15.24,cm,2005-02-28 14,,44.5,-88.75
+327,CNTW3,"CLINTONVILLE,WI",247 meters,station snow depth,15.24,cm,2005-02-28 13,,44.6225,-88.765
+328,BLNW3,BERLIN WWTP,235 meters,station snow depth,15.24,cm,2005-02-28 13,,43.99,-88.9417
+329,STAW3,"STANLEY,WI",346 meters,station snow depth,15.24,cm,2005-02-28 13,,44.9667,-90.9333
+330,JIMW3,AAWO,307 meters,station snow depth,15.24,cm,2005-02-28 12,,45.0667,-91.3333
+331,ALTW3,"ALTOONA,WI",298 meters,station snow depth,15.24,cm,2005-02-28 13,,44.8,-91.4333
+332,DALM5,DALTON 3S MN,405 meters,station snow depth,15.24,cm,2005-02-28 15,,46.1319,-95.9214
+333,UPMN8,"3MI.N UPHAM,ND",441 meters,station snow depth,15.24,cm,2005-02-28 14,,48.6167,-100.7333
+334,CHMV2,WATER PLT,197 meters,station snow depth,12.7,cm,2005-02-28 12,,36.8225,-79.4106
+335,FLAN7,FLAT TOP IFLOWS,1315 meters,station snow depth,12.7,cm,2005-02-28 12,,35.5733,-82.385
+336,WHNP1,LEHIGH VALLEY,452 meters,station snow depth,12.7,cm,2005-02-28 12,,41.1,-75.7333
+337,CLRP1,"CLARENCE,PA",425 meters,station snow depth,12.7,cm,2005-02-28 11,,41.05,-77.9333
+338,GRMP1,"GRAMPIAN, PA",468 meters,station snow depth,12.7,cm,2005-02-28 13,,40.9666,-78.5871
+339,EBNP1,"EBENSBURG,PA",596 meters,station snow depth,12.7,cm,2005-02-28 12,,40.4681,-78.7289
+340,CONP1,"1MI.SW CONFLUENCE,PA",443 meters,station snow depth,12.7,cm,2005-02-28 12,,39.8,-79.3667
+341,HSPV2,"HOT SPRINGS,VA",686 meters,station snow depth,12.7,cm,2005-02-28 12,,38.0,-79.8317
+342,CFPV2,"FILTER PLANT LARC, USACE DCP",377 meters,station snow depth,12.7,cm,2005-02-28 12,,37.8108,-79.9886
+343,RNKW2,"RENICK,WV",646 meters,station snow depth,12.7,cm,2005-02-28 12,,38.0,-80.3333
+344,PSKV2,"PULASKI,VA",589 meters,station snow depth,12.7,cm,2005-02-28 12,,37.05,-80.75
+345,BLUW2,BLUESTONE DAM,420 meters,station snow depth,12.7,cm,2005-02-28 12,,37.65,-80.8831
+346,BLFW2,NR BLUESTONE RIVER,876 meters,station snow depth,12.7,cm,2005-02-28 12,,37.2581,-81.1903
+347,RWYC2,RIDGWAY 3NW,2420 meters,station snow depth,12.7,cm,2005-02-28 19,,38.1833,-107.7667
+348,EPPN3,"1MI.WSW EPPING,NH",60 meters,station snow depth,12.7,cm,2005-02-28 12,,43.0333,-71.0833
+349,DERN3,DERRY,88 meters,station snow depth,12.7,cm,2005-02-28 12,,42.8661,-71.3247
+350,LANN3,"LANCASTER,NH",287 meters,station snow depth,12.7,cm,2005-02-28 11,,44.4833,-71.5833
+351,UVDV1,OMPOMPANOOSIC RIVER,328 meters,station snow depth,12.7,cm,2005-02-28 12,,43.7914,-72.2572
+352,DFCV1,DANBY FOUR CORNERS,416 meters,station snow depth,12.7,cm,2005-02-28 13,,43.3442,-73.0517
+353,SARV1,RADIO,122 meters,station snow depth,12.7,cm,2005-02-28 13,,44.8333,-73.0792
+354,WOTM3,"3MI.WSW WEST OTIS,MA",476 meters,station snow depth,12.7,cm,2005-02-28 11,,42.1667,-73.15
+355,BLMN6,"2MI.SW BLOOMINGBURG,NY",216 meters,station snow depth,12.7,cm,2005-02-28 12,,41.5,-74.4667
+356,CORN6,"5MI.SSW CORNING,NY",475 meters,station snow depth,12.7,cm,2005-02-28 12,,42.0667,-77.05
+357,BTHN6,V.A. MEDICAL CENTER,355 meters,station snow depth,12.7,cm,2005-02-28 12,,42.35,-77.35
+358,WLLP1,WELLSBORO 4 SW,552 meters,station snow depth,12.7,cm,2005-02-28 12,,41.7003,-77.3894
+359,SBNP1,"3MI.SE SABINSVILLE,PA",715 meters,station snow depth,12.7,cm,2005-02-28 12,,41.8333,-77.4667
+360,ROC,"ROCHESTER,NY",163 meters,station snow depth,12.7,cm,2005-02-28 12,,43.1189,-77.6728
+361,WELN6,"1MI.S WELLSVILLE,NY",453 meters,station snow depth,12.7,cm,2005-02-28 11,,42.1219,-77.9564
+362,EMPP1,"EMPORIUM,PA",554 meters,station snow depth,12.7,cm,2005-02-28 12,,41.5,-78.2333
+363,CSBP1,COOKSBURG,456 meters,station snow depth,12.7,cm,2005-02-28 12,,41.3575,-79.2172
+364,BVLP1,"BLOOMING VALLEY,PA",384 meters,station snow depth,12.7,cm,2005-02-28 12,,41.6833,-80.05
+365,MEAP1,WOODCOCK RSVR,360 meters,station snow depth,12.7,cm,2005-02-28 12,,41.7,-80.1
+366,BNCM4,LAPEER SANILAC DR. SETTER DRAIN,249 meters,station snow depth,12.7,cm,2005-02-28 13,,43.2189,-82.99
+367,LPRM4,OAKDALE REGIONAL CENTER,258 meters,station snow depth,12.7,cm,2005-02-28 12,,43.05,-83.35
+368,GODM4,GOODRICH,275 meters,station snow depth,12.7,cm,2005-02-28 12,,42.9164,-83.5097
+369,VSSM4,"VASSAR,MI",191 meters,station snow depth,12.7,cm,2005-02-28 12,,43.3667,-83.5833
+370,FNT,"FLINT,MI",236 meters,station snow depth,12.7,cm,2005-03-01 00,,42.9656,-83.7436
+371,ATLM4,"5MI.WNW ATLANTA,MI",369 meters,station snow depth,12.7,cm,2005-02-28 12,,44.9933,-84.1625
+372,LAN,"LANSING,MI",258 meters,station snow depth,12.7,cm,2005-03-01 00,,42.7786,-84.5872
+373,INAM4,"1MI.WNW IONIA,MI",203 meters,station snow depth,12.7,cm,2005-02-28 13,,42.9833,-85.0667
+374,PTWW3,"PORT WASHINGTON,WI",175 meters,station snow depth,12.7,cm,2005-02-28 13,,43.3833,-87.8667
+375,CDGW3,LAKEFIELD,222 meters,station snow depth,12.7,cm,2005-02-28 13,,43.2947,-87.9725
+376,ELHW3,"ELKHART LAKE,WI",291 meters,station snow depth,12.7,cm,2005-02-28 14,,43.8333,-88.0167
+377,GRB,"GREEN BAY, WI",214 meters,station snow depth,12.7,cm,2005-03-01 00,,44.4986,-88.1117
+378,ETBW3,WEST BEND,290 meters,station snow depth,12.7,cm,2005-02-28 14,,43.430279999999996,-88.17833
+379,HARW3,"2MI.W HARTFORD,WI",300 meters,station snow depth,12.7,cm,2005-02-28 14,,43.3167,-88.4
+380,ONCW3,SOUTH,265 meters,station snow depth,12.7,cm,2005-02-28 14,,43.1117,-88.4997
+381,OKHW3,"OSHKOSH,WI",237 meters,station snow depth,12.7,cm,2005-02-28 13,,44.0333,-88.5556
+382,NECW3,NECEDAH 2SE,277 meters,station snow depth,12.7,cm,2005-02-28 13,,43.9968,-90.0352
+383,AGSW3,AUGUSTA RS,288 meters,station snow depth,12.7,cm,2005-02-28 14,,44.6825,-91.1357
+384,BLAW3,BLAIR,262 meters,station snow depth,12.7,cm,2005-02-28 14,,44.2925,-91.2229
+385,BMRW3,"BLOOMER,WI",306 meters,station snow depth,12.7,cm,2005-02-28 14,,45.1,-91.4833
+386,FORM5,"4MI.SE FOREST LAKE,MN",271 meters,station snow depth,12.7,cm,2005-02-28 13,,45.2667,-92.9167
+387,WLMS2,HAM RADIO,366 meters,station snow depth,12.7,cm,2005-02-28 13,,45.4,-96.8667
+388,KVNU1,LOGAN RADIO KVNU,1358 meters,station snow depth,12.7,cm,2005-02-28 14,,41.7353,-111.8561
+389,STPM4,"8MI.WNW STEPHENSON,MI",215 meters,station snow depth,12.7,cm,2005-02-28 10,,45.45,-87.75
+390,MRRM5,WCES,331 meters,station snow depth,12.7,cm,2005-02-28 14,,45.5833,-95.8833
+391,SBNM5,SABIN,280 meters,station snow depth,12.7,cm,2005-02-28 11,,46.7769,-96.6561
+392,MORM5,"2MI.NE MORRHEAD,MN",273 meters,station snow depth,12.7,cm,2005-03-01 05,,46.85,-96.75
+393,FAR,"FARGO,ND",271 meters,station snow depth,12.7,cm,2005-03-01 00,,46.9156,-96.8144
+394,OLNM8,OLNEY,974 meters,station snow depth,12.7,cm,2005-02-28 15,,48.5497,-114.5739
+395,ROAV2,"8MI.N ROANOKE,VA",349 meters,station snow depth,11.43,cm,2005-02-28 12,,37.3617,-79.9592
+396,WSUW2,"WHITE SULPHUR SPRINGS,WV",578 meters,station snow depth,11.43,cm,2005-02-28 12,,37.8,-80.3
+397,TIOP1,TIONESTA DAM,371 meters,station snow depth,11.43,cm,2005-02-28 12,,41.4753,-79.4419
+398,FLSA3,FLAGSTAFF 4 SW,2168 meters,station snow depth,10.16,cm,2005-02-28 12,,35.1611,-111.7311
+399,HEWN4,"1MI.W HEWITT,NJ",147 meters,station snow depth,10.16,cm,2005-02-28 12,,41.1386,-74.3244
+400,STGP1,STRONGSTOWN,584 meters,station snow depth,10.16,cm,2005-02-28 12,,40.5506,-78.9242
+401,DALV2,"DALE ENTERPRISE,VA",398 meters,station snow depth,10.16,cm,2005-02-28 12,,38.45,-78.9333
+402,FRSM2,"FROSTBURG,MD",663 meters,station snow depth,10.16,cm,2005-02-28 12,,39.6667,-78.9333
+403,KEYW2,"3MI.E KEYSER,WV",455 meters,station snow depth,10.16,cm,2005-02-28 12,,39.4206,-79.005
+404,BRKV2,WATER TREATMENT PLT,130 meters,station snow depth,10.16,cm,2005-02-28 12,,37.0675,-78.9517
+405,MTDP1,YMCA CAMP AT DEER VALLEY,926 meters,station snow depth,10.16,cm,2005-02-28 12,,39.8,-79.1833
+406,GLAV2,"1MI.SE GLASGOW,VA",228 meters,station snow depth,10.16,cm,2005-02-28 12,,37.62,-79.4369
+407,BEDV2,"4MI.NW BEDFORD,VA",349 meters,station snow depth,10.16,cm,2005-02-28 12,,37.38,-79.5611
+408,LEXV2,KERRS CREEK,500 meters,station snow depth,10.16,cm,2005-02-28 14,,37.85,-79.5833
+409,GDMV2,GATHRIGHT DAM,541 meters,station snow depth,10.16,cm,2005-02-28 13,,37.9458,-79.9542
+410,EARV2,"15MI.SW COVINGTON,VA",570 meters,station snow depth,10.16,cm,2005-02-28 13,,37.6658,-80.2333
+411,BBGV2,"3MI.SE BLACKSBURG,VA",642 meters,station snow depth,10.16,cm,2005-02-28 12,,37.1833,-80.4167
+412,LWBW2,"2MI.SSW LEWISBURG,WV",654 meters,station snow depth,10.16,cm,2005-02-28 12,,37.7667,-80.4667
+413,UNIW2,"3MI.SSE UNION,WV",641 meters,station snow depth,10.16,cm,2005-02-28 12,,37.5436,-80.5336
+414,ALDW2,"ALDERSON,WV",474 meters,station snow depth,10.16,cm,2005-02-28 12,,37.7272,-80.6333
+415,BCKW2,V A HOSPITAL,718 meters,station snow depth,10.16,cm,2005-02-28 12,,37.7833,-81.1833
+416,GSDC2,GREAT SAND DUNES NATL MON,2439 meters,station snow depth,10.16,cm,2005-02-28 15,,37.7167,-105.5333
+417,ESTM1,EAST HIRAM,139 meters,station snow depth,10.16,cm,2005-02-28 11,,44.7236,-67.3817
+418,ROCN3,"ROCHESTER,NH",71 meters,station snow depth,10.16,cm,2005-02-28 12,,43.3,-70.9833
+419,BARM3,USACOE BARRE FALLS DAM,259 meters,station snow depth,10.16,cm,2005-02-28 12,,42.4333,-72.0333
+420,HNRN3,"HANOVER,NH",165 meters,station snow depth,10.16,cm,2005-02-28 11,,43.7167,-72.2667
+421,AHRM3,"1MI.WNW AMHERST,MA",51 meters,station snow depth,10.16,cm,2005-02-28 12,,42.3833,-72.5333
+422,CSKN6,CATSKILL 6SW,48 meters,station snow depth,10.16,cm,2005-02-28 12,,42.1697,-73.9475
+423,HMYN6,BALLSTON SPA 6W,177 meters,station snow depth,10.16,cm,2005-02-28 11,,42.9992,-73.97
+424,NBLN6,VISITORS CENTER FOR N.Y.S. POWER AUTHORI,341 meters,station snow depth,10.16,cm,2005-02-28 13,,42.4486,-74.4653
+425,WALN6,"WALTON,NY",370 meters,station snow depth,10.16,cm,2005-02-28 12,,42.1667,-75.1333
+426,SHBN6,CHENANGO RIVER AT SHERBURNE,321 meters,station snow depth,10.16,cm,2005-02-28 12,,42.6786,-75.5108
+427,SHKP1,"3MI.N SHICKSHINNY,PA",300 meters,station snow depth,10.16,cm,2005-02-28 12,,41.2,-76.15
+428,BEPP1,BENTON 3 NE,345 meters,station snow depth,10.16,cm,2005-02-28 12,,41.2322,-76.3425
+429,WMSP1,"1MI.E WILLIAMSPORT,PA",162 meters,station snow depth,10.16,cm,2005-03-01 03,,41.2486,-76.9833
+430,HONN6,"HONEOYE,NY",251 meters,station snow depth,10.16,cm,2005-02-28 13,,42.7833,-77.5167
+431,PALP1,"PORT ALLEGANY,PA",455 meters,station snow depth,10.16,cm,2005-02-28 12,,41.8167,-78.2833
+432,OLNN6,"OLEAN,NY",432 meters,station snow depth,10.16,cm,2005-02-28 12,,42.0833,-78.4528
+433,JHNP1,"JOHNSONBURG,PA",560 meters,station snow depth,10.16,cm,2005-02-28 12,,41.4833,-78.6833
+434,BUF,"BUFFALO, NY",214 meters,station snow depth,10.16,cm,2005-02-28 12,,42.9414,-78.7192
+435,CLAP1,PINEY LAKE,321 meters,station snow depth,10.16,cm,2005-02-28 11,,41.1922,-79.4356
+436,CANM4,CANTON,207 meters,station snow depth,10.16,cm,2005-03-01 00,,42.32,-83.4561
+437,ARBM4,UNIV OF MICH,270 meters,station snow depth,10.16,cm,2005-02-28 12,,42.3,-83.7167
+438,ARNM4,"2MI.NNE ADRIAN,MI",226 meters,station snow depth,10.16,cm,2005-03-01 05,,41.9167,-84.0167
+439,FNKW3,FRANKSVILLE,228 meters,station snow depth,10.16,cm,2005-02-28 14,,42.8011,-87.8931
+440,MKNW3,MILWAUKEE - BROWN DEER,217 meters,station snow depth,10.16,cm,2005-02-28 14,,43.1569,-87.9803
+441,WPKW3,SW-WHITNAL PARK,236 meters,station snow depth,10.16,cm,2005-02-28 14,,42.9167,-88.0333
+442,BRLW3,"BRILLION,WI",255 meters,station snow depth,10.16,cm,2005-02-28 13,,44.1833,-88.0667
+443,GERW3,"GERMANTOWN,WI",264 meters,station snow depth,10.16,cm,2005-02-28 14,,43.2167,-88.1167
+444,KEEW3,MERTON 1.5N,302 meters,station snow depth,10.16,cm,2005-02-28 13,,43.1669,-88.3042
+445,WATW3,"WATERTOWN,WI",241 meters,station snow depth,10.16,cm,2005-02-28 13,,43.175,-88.7353
+446,LKMW3,"LAKE MILLS,WI",260 meters,station snow depth,10.16,cm,2005-02-28 13,,43.0667,-88.9122
+447,NELW3,NEILLSVILLE 3SW,309 meters,station snow depth,10.16,cm,2005-02-28 13,,44.5289,-90.6381
+448,ELRW3,EAU CLAIRE 3SW,-9999 meters,station snow depth,10.16,cm,2005-02-28 13,,44.7878,-91.5164
+449,ALTM5,ALTURA 5W,255 meters,station snow depth,10.16,cm,2005-02-28 13,,44.0633,-92.0397
+450,WABM5,WABASHA,214 meters,station snow depth,10.16,cm,2005-02-28 13,,44.385,-92.0486
+451,EGNM5,ELGIN 2SSW,330 meters,station snow depth,10.16,cm,2005-02-28 13,,44.097,-92.2701
+452,ZUMM5,ZUMBRO FALLS,253 meters,station snow depth,10.16,cm,2005-02-28 13,,44.2853,-92.431
+453,ABGW3,AMBERG 9 E,224 meters,station snow depth,10.16,cm,2005-02-28 13,,45.4825,-87.8119
+454,STC,"ST CLOUD,MN",305 meters,station snow depth,10.16,cm,2005-03-01 00,,45.5453,-94.0581
+455,WLDM5,WILD RIVER ATSTATE PARK,305 meters,station snow depth,10.16,cm,2005-02-28 14,,45.4833,-92.7333
+456,WHTM5,"WHEATON, MN",308 meters,station snow depth,10.16,cm,2005-02-28 13,,45.8,-96.4833
+457,ETH,WHEATON,307 meters,station snow depth,10.16,cm,2005-03-01 00,,45.7803,-96.5433
+458,LGRN8,"1MI.SSW LIDGERWOOD,ND",342 meters,station snow depth,10.16,cm,2005-02-28 13,,46.0667,-97.1667
+459,FRMN8,"5MI.SSE FORMAN,ND",382 meters,station snow depth,10.16,cm,2005-02-28 12,,46.0333,-97.595
+460,BRNS2,HAM RADIO,407 meters,station snow depth,10.16,cm,2005-02-28 13,,45.7833,-97.75
+461,SWLM8,SWAN LAKE,948 meters,station snow depth,10.16,cm,2005-02-28 15,,47.9203,-113.8394
+462,WNPW1,WINTHROP 1 WSW,572 meters,station snow depth,10.16,cm,2005-03-01 03,,48.4531,-120.1936
+463,NBRM3,NORTHBRIDGE #2,119 meters,station snow depth,8.89,cm,2005-02-28 12,,42.1167,-71.6833
+464,EDEN7,"EDEN,NC",155 meters,station snow depth,7.62,cm,2005-03-01 05,,36.4833,-79.75
+465,DNBN7,DANBURY 5SE,225 meters,station snow depth,7.62,cm,2005-02-28 12,,36.395,-80.1422
+466,WRIC1,WRIGHTWOOD,1829 meters,station snow depth,7.62,cm,2005-02-28 12,,34.3617,-117.6386
+467,OKX,"NEW YORK CITY, NY",33 meters,station snow depth,7.62,cm,2005-02-28 12,,40.8656,-72.865
+468,BDR,"BRIDGEPORT,CT",4 meters,station snow depth,7.62,cm,2005-02-28 12,,41.1633,-73.1267
+469,PRKP1,PERKASIE,132 meters,station snow depth,7.62,cm,2005-02-28 12,,40.38,-75.25
+470,OXNM2,"1MI.SE OXON HILL,MD",60 meters,station snow depth,7.62,cm,2005-03-01 05,,38.5667,-76.9833
+471,PGFP1,"PINE GROVE FURNACE,PA",277 meters,station snow depth,7.62,cm,2005-02-28 13,,40.0333,-77.3
+472,STCP1,"STATE COLLEGE,PA",378 meters,station snow depth,7.62,cm,2005-02-28 12,,40.8,-77.8667
+473,ALOP1,ALTOONA 2,390 meters,station snow depth,7.62,cm,2005-02-28 12,,40.5267,-78.3694
+474,CRVV2,"2MI.W CHARLOTTESVILLE,VA",188 meters,station snow depth,7.62,cm,2005-02-28 13,,38.0333,-78.5167
+475,CONV2,"4MI.SSW CONCORD,VA",246 meters,station snow depth,7.62,cm,2005-02-28 12,,37.2828,-78.9586
+476,BSWP1,"1MI.SW BOSWELL,PA",560 meters,station snow depth,7.62,cm,2005-02-28 12,,40.1581,-79.0378
+477,LYHV2,STN NO. 2,220 meters,station snow depth,7.62,cm,2005-02-28 12,,37.3847,-79.2289
+478,BUVV2,INSIDE,266 meters,station snow depth,7.62,cm,2005-02-28 13,,37.7269,-79.3627
+479,LXGV2,LID 1178/1179 - MAVRY R. AT H20 PLANT,281 meters,station snow depth,7.62,cm,2005-02-28 12,,37.8022,-79.4497
+480,BUCV2,"BUCHANAN,VA",308 meters,station snow depth,7.62,cm,2005-02-28 12,,37.5333,-79.6833
+481,FINV2,"7MI.NW FINCASTLE,VA",392 meters,station snow depth,7.62,cm,2005-02-28 12,,37.5667,-79.8039
+482,PICW2,"2MI.N PICKENS,WV",895 meters,station snow depth,7.62,cm,2005-02-28 14,,38.6667,-80.2
+483,ITRC2,INTER CANYON,2194 meters,station snow depth,7.62,cm,2005-02-28 16,,39.5736,-105.2197
+484,ALMU1,ALTAMONT,1945 meters,station snow depth,7.62,cm,2005-02-28 12,,40.3561,-110.2878
+485,WOOR1,"WOONSOCKET,RI",101 meters,station snow depth,7.62,cm,2005-02-28 12,,41.9833,-71.5
+486,EBRM3,EAST BRIMFIELD LAKE/USACOE DAM,211 meters,station snow depth,7.62,cm,2005-02-28 12,,42.1167,-72.1333
+487,SDLM3,"SUNDERLAND,MA",144 meters,station snow depth,7.62,cm,2005-02-28 12,,42.45,-72.55
+488,DANC3,"DANBURRY,CT",110 meters,station snow depth,7.62,cm,2005-02-28 12,,41.4,-73.4167
+489,RHBN6,STAATSBURG,94 meters,station snow depth,7.62,cm,2005-02-28 11,,41.8847,-73.8686
+490,NSKN6,NISKAYUNA,123 meters,station snow depth,7.62,cm,2005-02-28 13,,42.7958,-73.8767
+491,CAIN6,"3MI.NW CAIRO,NY",160 meters,station snow depth,7.62,cm,2005-02-28 12,,42.3194,-74.0403
+492,SUXN4,"1MI.SE SUSSEX,NJ",120 meters,station snow depth,7.62,cm,2005-02-28 10,,41.2,-74.6
+493,CMGN6,CHEMUNG RIVER AT CHEMUNG,244 meters,station snow depth,7.62,cm,2005-02-28 12,,42.0022,-76.635
+494,MATP1,"MATAMORAS,PA",600 meters,station snow depth,7.62,cm,2005-02-28 12,,41.3667,-76.7
+495,JONN6,GENESSEE R NR @ JONES BRIDGE,271 meters,station snow depth,7.62,cm,2005-02-28 12,,42.7306,-77.9044
+496,STVP1,GEO B STEVENSON LAKE,382 meters,station snow depth,7.62,cm,2005-02-28 12,,41.4,-78.0167
+497,RDWP1,"RIDGWAY,PA",421 meters,station snow depth,7.62,cm,2005-02-28 12,,41.4167,-78.75
+498,IAG,INTERNATIONAL APT,179 meters,station snow depth,7.62,cm,2005-02-28 12,,43.1014,-78.95
+499,POAM4,PORT AUSTIN WWTP,184 meters,station snow depth,7.62,cm,2005-02-28 12,,44.0467,-82.9703
+500,WYTM4,WYANDOTTE,175 meters,station snow depth,7.62,cm,2005-02-28 13,,42.2011,-83.1683
+501,DTW,"DETROIT,MI",194 meters,station snow depth,7.62,cm,2005-03-01 00,,42.2122,-83.3533
+502,BKNM4,"2MI.ENE BROOKLYN,MI",303 meters,station snow depth,7.62,cm,2005-02-28 12,,42.1167,-84.2
+503,GDLM4,"GRAND LEDGE,MI",245 meters,station snow depth,7.62,cm,2005-02-28 12,,42.7667,-84.7667
+504,HASM4,WWTP,239 meters,station snow depth,7.62,cm,2005-02-28 12,,42.65,-85.3
+505,SYGW3,SHEBOYGAN-SOUTH,193 meters,station snow depth,7.62,cm,2005-02-28 13,,43.7194,-87.7247
+506,SYNW3,SHEBOYGAN 1SW,202 meters,station snow depth,7.62,cm,2005-02-28 13,,43.7356,-87.735
+507,MKE,"MILWAUKEE,WI",204 meters,station snow depth,7.62,cm,2005-03-01 00,,42.9467,-87.8969
+508,TAHW3,TAYCHEEDAHV_REMARKS=,325 meters,station snow depth,7.62,cm,2005-02-28 13,,43.8339,-88.3469
+509,Y11W3,EAGLE,280 meters,station snow depth,7.62,cm,2005-02-28 14,,42.8725,-88.46444
+510,MKX,WFO SULLIVAN,285 meters,station snow depth,7.62,cm,2005-02-28 13,,42.9681,-88.5492
+511,Y08W3,JUNEAU,283 meters,station snow depth,7.62,cm,2005-02-28 14,,43.40611,-88.705
+512,CTGW3,COTTAGE GROVE,267 meters,station snow depth,7.62,cm,2005-03-01 03,,43.0769,-89.1911
+513,MSN,"MADISON,WI",262 meters,station snow depth,7.62,cm,2005-03-01 00,,43.1397,-89.3375
+514,ARLW3,UNIV FARM,318 meters,station snow depth,7.62,cm,2005-02-28 14,,43.3,-89.35
+515,Y01W3,MADISON,308 meters,station snow depth,7.62,cm,2005-02-28 14,,43.0333,-89.45
+516,WDEW3,"WISCONSIN DELLS,WI",287 meters,station snow depth,7.62,cm,2005-02-28 14,,43.6167,-89.7833
+517,WESW3,WESTBY 1NE,394 meters,station snow depth,7.62,cm,2005-02-28 13,,43.6749,-90.8077
+518,ARX,"LA CROSSE, WI",388 meters,station snow depth,7.62,cm,2005-02-28 13,,43.8228,-91.1919
+519,Y95W3,EAU CLAIRE,283 meters,station snow depth,7.62,cm,2005-02-28 13,,44.8,-91.55
+520,FRBM5,"FARIBAULT,MN",299 meters,station snow depth,7.62,cm,2005-02-28 13,,44.3,-93.2667
+521,WASM5,EXPERIMENT STN,351 meters,station snow depth,7.62,cm,2005-02-28 14,,44.0667,-93.5167
+522,MPXM5,"CHANHASSEN,MN",283 meters,station snow depth,7.62,cm,2005-02-28 12,,44.8514,-93.565
+523,ARTM5,ARTICHOKE LAKE,330 meters,station snow depth,7.62,cm,2005-03-01 03,,45.3667,-96.1333
+524,SCOM5,MISSISSIPPI RIVER,315 meters,station snow depth,7.62,cm,2005-02-28 12,,45.55,-94.15
+525,GRFN8,UNIVERSITY,253 meters,station snow depth,7.62,cm,2005-03-01 00,,47.9333,-97.0833
+526,GFK,GRAND FORKS INTERNATIONAL AIRPORT,256 meters,station snow depth,7.62,cm,2005-03-01 00,,47.9492,-97.1761
+527,TMSC3,THOMASTON RSVR DAM,142 meters,station snow depth,6.86,cm,2005-02-28 18,,41.6947,-73.0622
+528,JNTP1,"JOHNSTOWN,PA",584 meters,station snow depth,6.35,cm,2005-02-28 12,,40.2167,-78.8667
+529,HOHP1,HOLSOPPLE,552 meters,station snow depth,6.35,cm,2005-02-28 12,,40.2,-78.92
+530,RHAN7,"RURAL HALL,NC",308 meters,station snow depth,5.08,cm,2005-02-28 11,,36.2333,-80.3069
+531,REDN5,"RED RIVER,NM",2754 meters,station snow depth,5.08,cm,2005-03-01 00,,36.7,-105.4
+532,PGVP1,"SWATARA CK,SEWAGE TREATMENT PLT",158 meters,station snow depth,5.08,cm,2005-02-28 12,,40.5333,-76.4
+533,MDT,HARRISBURG INTERNATIONAL AIRPORT,89 meters,station snow depth,5.08,cm,2005-02-28 12,,40.1933,-76.7636
+534,HUNP1,JUNIATA RIVER,220 meters,station snow depth,5.08,cm,2005-02-28 12,,40.5167,-78.0
+535,PLBP1,"2MI.S PHILIPSBURG,PA",517 meters,station snow depth,5.08,cm,2005-02-28 12,,40.8722,-78.2153
+536,BFFP1,"BUFFALO MILLS,PA",425 meters,station snow depth,5.08,cm,2005-02-28 12,,39.95,-78.65
+537,DUNP1,"DUNLO,PA",728 meters,station snow depth,5.08,cm,2005-02-28 12,,40.2872,-78.7242
+538,SMRP1,"SOMERSET,PA",653 meters,station snow depth,5.08,cm,2005-02-28 13,,40.0,-79.0833
+539,RCLV2,MIDDLE CREEK,591 meters,station snow depth,5.08,cm,2005-02-28 12,,37.0833,-81.7833
+540,ETSC2,"1MI.SSE ESTES PARK,CO",2387 meters,station snow depth,5.08,cm,2005-02-28 14,,40.3689,-105.5136
+541,FRZC2,"FRASER,CO",2619 meters,station snow depth,5.08,cm,2005-03-01 00,,39.9425,-105.8172
+542,MINC1,MINERAL,1496 meters,station snow depth,5.08,cm,2005-02-28 18,,40.3458,-121.6092
+543,WTPC3,WEST THOMPSON LAKE/USCOE DAM,92 meters,station snow depth,5.08,cm,2005-02-28 12,,41.95,-71.9
+544,SUNV1,SUNDERLAND VILLAGE,273 meters,station snow depth,5.08,cm,2005-02-28 13,,43.0908,-73.1244
+545,CPKN6,"1MI.NNW COPAKE,NY",177 meters,station snow depth,5.08,cm,2005-02-28 14,,42.1,-73.5333
+546,RHKN6,RED HOOK,66 meters,station snow depth,5.08,cm,2005-02-28 11,,41.9936,-73.8814
+547,NPZN6,NEW PALTZ,133 meters,station snow depth,5.08,cm,2005-02-28 11,,41.7547,-74.0611
+548,SHHN6,SCHOHARIE,209 meters,station snow depth,5.08,cm,2005-02-28 12,,42.665,-74.3036
+549,COBN6,"2MI.ESE COBLESKILL,NY",404 meters,station snow depth,5.08,cm,2005-02-28 13,,42.6667,-74.4333
+550,EMRN6,"1MI.N ELMIRA,NY",263 meters,station snow depth,5.08,cm,2005-02-28 12,,42.1,-76.8
+551,CNTP1,"CANTON,PA",351 meters,station snow depth,5.08,cm,2005-02-28 12,,41.65,-76.85
+552,ADDN6,"ADDISON,NY",310 meters,station snow depth,5.08,cm,2005-02-28 11,,42.1,-77.2339
+553,RVOP1,"RENOVO,PA",266 meters,station snow depth,5.08,cm,2005-02-28 12,,41.3333,-77.7333
+554,OSWP1,"1MI.NE OSWAYO,PA",679 meters,station snow depth,5.08,cm,2005-02-28 12,,41.9167,-78.0
+555,SILN6,"3MI.E SILVER CREEK,NY",181 meters,station snow depth,5.08,cm,2005-02-28 12,,42.5578,-79.1167
+556,MECO1,UNKNOWN,293 meters,station snow depth,5.08,cm,2005-02-28 12,,41.4,-80.73
+557,KTLO1,KIRTLAND-HOLDEN 2,317 meters,station snow depth,5.08,cm,2005-02-28 14,,41.6144,-81.2944
+558,FLNM4,CASE DRAIN-BOARTMAN CRK,191 meters,station snow depth,5.08,cm,2005-02-28 11,,43.9267,-83.0936
+559,FARM4,"FARMINGTON,MI",226 meters,station snow depth,5.08,cm,2005-02-28 11,,42.4667,-83.3667
+560,BPKI2,BEACH PARK,219 meters,station snow depth,5.08,cm,2005-02-28 12,,42.4289,-87.8833
+561,WETW3,"WEST ALLIS,WI",228 meters,station snow depth,5.08,cm,2005-02-28 14,,43.0172,-88.0017
+562,GRYI2,GRAYSLAKE,254 meters,station snow depth,5.08,cm,2005-02-28 12,,42.3344,-88.0092
+563,MMCW3,MT. MARY COLLEGE,220 meters,station snow depth,5.08,cm,2005-02-28 14,,43.0728,-88.0306
+564,UGRW3,"UNION GROVE,WI",229 meters,station snow depth,5.08,cm,2005-02-28 14,,42.7,-88.0322
+565,WCCW3,CARROLL COLLEGE,275 meters,station snow depth,5.08,cm,2005-02-28 13,,43.0,-88.2167
+566,SGVI2,SPRING GROVE,258 meters,station snow depth,5.08,cm,2005-02-28 13,,42.4678,-88.2372
+567,GCYW3,GENOA CITY,253 meters,station snow depth,5.08,cm,2005-02-28 13,,42.4986,-88.33
+568,HEBI2,HEBRON,304 meters,station snow depth,5.08,cm,2005-02-28 13,,42.4675,-88.4806
+569,WODI2,WOODSTOCK,288 meters,station snow depth,5.08,cm,2005-02-28 13,,42.3628,-88.5314
+570,GEOI2,"2MI.SW GENOA,IL",256 meters,station snow depth,5.08,cm,2005-02-28 14,,42.08,-88.7075
+571,SNPW3,SUN PRAIRIE 4 NNE,299 meters,station snow depth,5.08,cm,2005-02-28 14,,43.2211,-89.2139
+572,PGEW3,PORTAGE 3SE,246 meters,station snow depth,5.08,cm,2005-02-28 13,,43.5269,-89.3917
+573,ARBW3,SOUTH SIDE-ARBORETUM UNIV WI,293 meters,station snow depth,5.08,cm,2005-02-28 14,,43.0411,-89.4286
+574,CHMW3,"MADISON,WI",320 meters,station snow depth,5.08,cm,2005-02-28 14,,43.0603,-89.4781
+575,MDLW3,MIDDLETON 1NE,289 meters,station snow depth,5.08,cm,2005-02-28 14,,43.102,-89.496
+576,LSGI4,LANSING 4SE,251 meters,station snow depth,5.08,cm,2005-02-28 13,,43.3197,-91.1617
+577,SPRM5,SPRING GROVE 4N,339 meters,station snow depth,5.08,cm,2005-02-28 13,,43.6125,-91.6222
+578,MSP,MINNEAPOLIS-ST PAUL INTL AP,244 meters,station snow depth,5.08,cm,2005-03-01 00,,44.8842,-93.215
+579,SMTS2,WATERTOWN-28MI.N,591 meters,station snow depth,5.08,cm,2005-02-28 23,,45.3,-97.0667
+580,AMMI1,MCCAMMON,1446 meters,station snow depth,5.08,cm,2005-02-28 15,,42.6556,-112.1925
+581,TUSN2,TUSCARORA,1871 meters,station snow depth,5.08,cm,2005-02-28 18,,41.3144,-116.2225
+582,WTRW3,"WINTER,WI",421 meters,station snow depth,5.08,cm,2005-02-28 15,,45.7992,-90.9947
+583,ABR,"ABERDEEN, SD",396 meters,station snow depth,5.08,cm,2005-03-01 00,,45.4558,-98.4128
+584,ABES2,SITE LOC NW OF TOWN.,404 meters,station snow depth,5.08,cm,2005-02-28 13,,45.5125,-98.5292
+585,MONN8,"MONTPELIER,ND",424 meters,station snow depth,5.08,cm,2005-02-28 14,,46.7,-98.5833
+586,JTWN8,STATE HOSPITAL,447 meters,station snow depth,5.08,cm,2005-02-28 13,,46.8833,-98.6833
+587,LFDN8,"LANSFORD,ND",488 meters,station snow depth,5.08,cm,2005-02-28 13,,48.6333,-101.3833
+588,STAN8,"3MI.NNW STANLEY,ND",687 meters,station snow depth,5.08,cm,2005-02-28 13,,48.3567,-102.4131
+589,SOBV2,"SOUTH BOSTON,VA",99 meters,station snow depth,2.54,cm,2005-02-28 12,,36.6956,-78.8808
+590,DNVV2,"DANVILLE,VA",127 meters,station snow depth,2.54,cm,2005-02-28 12,,36.5869,-79.3886
+591,LKTN7,"2MI.SW LAKE TOXAWAY,NC",943 meters,station snow depth,2.54,cm,2005-02-28 13,,35.1086,-82.9608
+592,SCIA3,SUNSET CRATER NATL MON,2125 meters,station snow depth,2.54,cm,2005-02-28 12,,35.3694,-111.5436
+593,OCNN6,"1MI.SE OCEANSIDE,NY",3 meters,station snow depth,2.54,cm,2005-02-28 11,,40.6328,-73.6269
+594,BELN4,BRIDGE,80 meters,station snow depth,2.54,cm,2005-02-28 12,,40.8333,-75.0833
+595,YHNP1,"YORK HAVEN,PA",94 meters,station snow depth,2.54,cm,2005-02-28 12,,40.1167,-76.7167
+596,SUNP1,SUNBURY,133 meters,station snow depth,2.54,cm,2005-02-28 12,,40.8544,-76.7925
+597,LBGP1,"LEWISBURG,PA",153 meters,station snow depth,2.54,cm,2005-02-28 12,,40.9486,-76.8783
+598,BGLP1,"1MI.W BIGLERVILLE,PA",205 meters,station snow depth,2.54,cm,2005-02-28 12,,39.9333,-77.25
+599,ORGV2,"2MI.SSW ORANGE,VA",167 meters,station snow depth,2.54,cm,2005-02-28 13,,38.2167,-78.1167
+600,WOLP1,RAYSTOWN BR OF JUNIATA,364 meters,station snow depth,2.54,cm,2005-02-28 12,,40.0333,-78.5167
+601,EDNV2,"EDINBURG,VA",253 meters,station snow depth,2.54,cm,2005-02-28 12,,38.8233,-78.565
+602,CRKP1,CREEKSIDE,329 meters,station snow depth,2.54,cm,2005-02-28 12,,40.6764,-79.1878
+603,DGLP1,DONEGAL 2 NW,591 meters,station snow depth,2.54,cm,2005-02-28 12,,40.13,-79.4
+604,ROWW2,ROWLESBURG,437 meters,station snow depth,2.54,cm,2005-02-28 12,,39.3422,-79.6706
+605,PMAW2,LAKE LYNN LAKE,261 meters,station snow depth,2.54,cm,2005-03-01 00,,39.72,-79.8561
+606,BTLP1,BUTLER,304 meters,station snow depth,2.54,cm,2005-02-28 12,,40.8406,-79.9175
+607,VAHW2,"VALLEY HEAD,WV",733 meters,station snow depth,2.54,cm,2005-02-28 12,,38.55,-80.0333
+608,CLWV2,"CLINTWOOD,VA",553 meters,station snow depth,2.54,cm,2005-02-28 12,,37.15,-82.4667
+609,JKL,"JACKSON, KY",415 meters,station snow depth,2.54,cm,2005-03-01 00,,37.5939,-83.3172
+610,SIDI2,"5MI.NW SIDELL,IL",207 meters,station snow depth,2.54,cm,2005-02-28 13,,39.9803,-87.8767
+611,PHLI2,PHILO,223 meters,station snow depth,2.54,cm,2005-02-28 13,,40.0002,-88.1586
+612,HIDI2,HIDALGO 3SW,175 meters,station snow depth,2.54,cm,2005-03-01 00,,39.1396,-88.1906
+613,UBNI2,URBANA 2,222 meters,station snow depth,2.54,cm,2005-03-01 00,,40.1117,-88.2253
+614,URBI2,URBANA,221 meters,station snow depth,2.54,cm,2005-02-28 13,,40.0842,-88.2406
+615,MOOI2,MATTOON,225 meters,station snow depth,2.54,cm,2005-02-28 13,,39.4845,-88.3811
+616,BTWI2,"4MI.SW BROWNSTOWN,IL",176 meters,station snow depth,2.54,cm,2005-02-28 14,,38.9333,-88.95
+617,WSHI2,WASHINGTON,228 meters,station snow depth,2.54,cm,2005-02-28 13,,40.6953,-89.4372
+618,GROI2,GROVELAND 2WNW,189 meters,station snow depth,2.54,cm,2005-02-28 13,,40.6035,-89.5905
+619,SFDI2,SPRINGFIELD 3N,177 meters,station snow depth,2.54,cm,2005-02-28 12,,39.8365,-89.6249
+620,LBNI2,"LEBANON,IL",154 meters,station snow depth,2.54,cm,2005-02-28 13,,38.6,-89.8183
+621,HVAI2,"4MI.NNE HAVANA,IL",142 meters,station snow depth,2.54,cm,2005-02-28 13,,40.3431,-90.0164
+622,AOAI2,ALTONA,235 meters,station snow depth,2.54,cm,2005-02-28 13,,41.1203,-90.1645
+623,JCKI2,JACKSONVILLE 2,193 meters,station snow depth,2.54,cm,2005-02-28 13,,39.7136,-90.2289
+624,WNRI2,WINCHESTER,167 meters,station snow depth,2.54,cm,2005-02-28 13,,39.6319,-90.4572
+625,PEYI2,"6MI.NW PERRY,IL",195 meters,station snow depth,2.54,cm,2005-02-28 14,,39.8,-90.8333
+626,DOWM7,DOWNING,271 meters,station snow depth,2.54,cm,2005-02-28 13,,40.4906,-92.3705
+627,WWPC2,AMRAD,2551 meters,station snow depth,2.54,cm,2005-02-28 14,,38.9833,-105.05
+628,HORC2,HOHNHOLZ RANCH,2387 meters,station snow depth,2.54,cm,2005-02-28 14,,40.9678,-106.0
+629,DLLC2,"1MI.E DILLON,CO",2779 meters,station snow depth,2.54,cm,2005-02-28 14,,39.6261,-106.0353
+630,CHMN5,CHAMA. UPPER COLORADOO NTWK,2419 meters,station snow depth,2.54,cm,2005-02-28 14,,36.9169,-106.5772
+631,URYC2,QURAY SPOTTER,2357 meters,station snow depth,2.54,cm,2005-02-28 19,,38.0261,-107.6725
+632,RBLN2,RUBY LAKE,1851 meters,station snow depth,2.54,cm,2005-02-28 18,,40.2028,-115.4928
+633,MHLC3,MANSFIELD HALLOW LAKE,76 meters,station snow depth,2.54,cm,2005-02-28 12,,41.75,-72.1833
+634,BSKN6,BUSKIRK,154 meters,station snow depth,2.54,cm,2005-02-28 12,,42.9361,-73.4325
+635,POUN6,"4MI.NE POUGHKEEPSIE,NY",54 meters,station snow depth,2.54,cm,2005-02-28 14,,41.6278,-73.9167
+636,KNGN6,KINGSTON,57 meters,station snow depth,2.54,cm,2005-02-28 11,,41.9606,-73.9972
+637,IPT,WILLIAMSPORT RGNL,157 meters,station snow depth,2.54,cm,2005-02-28 12,,41.2419,-76.9211
+638,CQDP1,COWANESQUE DAM,400 meters,station snow depth,2.54,cm,2005-02-28 12,,41.9967,-77.1517
+639,MERP1,MERCER,370 meters,station snow depth,2.54,cm,2005-02-28 13,,41.2244,-80.2347
+640,DNDM4,"DUNDEE,MI",201 meters,station snow depth,2.54,cm,2005-02-28 12,,41.95,-83.65
+641,MONO1,MONTPELIER,262 meters,station snow depth,2.54,cm,2005-02-28 12,,41.5802,-84.6077
+642,SHNW3,SHEBOYGAN 5MI.SW,217 meters,station snow depth,2.54,cm,2005-02-28 13,,43.6769,-87.7572
+643,CBGI2,BOTANICAL GARDEN,196 meters,station snow depth,2.54,cm,2005-02-28 14,,42.1167,-87.7667
+644,KENW3,WATER POLLUTION CONTROL PLANT,188 meters,station snow depth,2.54,cm,2005-03-01 06,,42.55,-87.8142
+645,OKKI2,OAK BROOK 2W,223 meters,station snow depth,2.54,cm,2005-02-28 14,,41.8422,-87.9731
+646,MUNI2,"4MI.WSW MUNDELEIN,IL",259 meters,station snow depth,2.54,cm,2005-02-28 13,,42.2553,-88.0769
+647,LOT,"CHICAGO, IL",200 meters,station snow depth,2.54,cm,2005-03-01 06,,41.6083,-88.0939
+648,ANTI2,"2MI.NW ANTIOCH,IL",228 meters,station snow depth,2.54,cm,2005-02-28 14,,42.5,-88.1333
+649,WNFI2,"WINFIELD,IL",240 meters,station snow depth,2.54,cm,2005-02-28 13,,41.8772,-88.1464
+650,SNWI2,"1MI.NE STREAMWOOD,IL",247 meters,station snow depth,2.54,cm,2005-02-28 13,,42.0167,-88.1667
+651,BGTW3,SEWAGE DISPOSAL PLANT,251 meters,station snow depth,2.54,cm,2005-02-28 13,,42.6833,-88.2
+652,WFDW3,WATERFORD 1NW,241 meters,station snow depth,2.54,cm,2005-02-28 16,,42.7825,-88.22
+653,MHYI2,LOCK AND DAM,227 meters,station snow depth,2.54,cm,2005-02-28 14,,42.2833,-88.2333
+654,TNLW3,TWIN LAKES 1SW,253 meters,station snow depth,2.54,cm,2005-02-28 13,,42.5275,-88.2683
+655,ELGI2,"ELGIN,IL",214 meters,station snow depth,2.54,cm,2005-02-28 13,,42.0333,-88.2833
+656,BATI2,BATAVIA,218 meters,station snow depth,2.54,cm,2005-03-01 00,,41.8483,-88.3119
+657,SCKI2,ST. CHARLES,276 meters,station snow depth,2.54,cm,2005-02-28 13,,41.9603,-88.4228
+658,YOKI2,YORKVILLE,221 meters,station snow depth,2.54,cm,2005-02-28 13,,41.6211,-88.4356
+659,FDCW3,AAWO,332 meters,station snow depth,2.54,cm,2005-02-28 15,,43.6333,-88.45
+660,MMOI2,ILLINOIS RIVER,144 meters,station snow depth,2.54,cm,2005-02-28 12,,41.3306,-88.7583
+661,DEKI2,"DE KALB,IL",266 meters,station snow depth,2.54,cm,2005-02-28 13,,41.9333,-88.7667
+662,JFNW3,JEFFERSON - WWTP,241 meters,station snow depth,2.54,cm,2005-02-28 14,,42.9947,-88.8039
+663,PAWI2,"1MI.E PAW PAW,IL",282 meters,station snow depth,2.54,cm,2005-02-28 13,,41.7,-88.9667
+664,RSCI2,ROSCOE,264 meters,station snow depth,2.54,cm,2005-02-28 12,,42.405,-88.9794
+665,STWI2,STEWARD,251 meters,station snow depth,2.54,cm,2005-02-28 13,,41.8111,-89.0233
+666,BLTW3,"BELOIT,WI",231 meters,station snow depth,2.54,cm,2005-02-28 13,,42.5,-89.0333
+667,STOW3,"STOUGHTON,WI",271 meters,station snow depth,2.54,cm,2005-02-28 14,,42.9167,-89.2167
+668,PORW3,"PORTAGE,WI",237 meters,station snow depth,2.54,cm,2005-02-28 14,,43.5319,-89.4378
+669,BABW3,"BARABOO,WI",253 meters,station snow depth,2.54,cm,2005-02-28 13,,43.4833,-89.6333
+670,Y91W3,MERRILL,445 meters,station snow depth,2.54,cm,2005-02-28 14,,43.23917,-89.33528000000001
+671,BLVW3,"BLANCHARDVILLE,WI",250 meters,station snow depth,2.54,cm,2005-02-28 14,,42.7833,-89.8667
+672,DGVW3,"DODGEVILLE,WI",372 meters,station snow depth,2.54,cm,2005-02-28 13,,42.9667,-90.1167
+673,LAVW3,LA VALLESTATION NUMBER = 72-4422-07,276 meters,station snow depth,2.54,cm,2005-02-28 16,,43.5825,-90.1319
+674,RICW3,RICHLAND CENTER,223 meters,station snow depth,2.54,cm,2005-02-28 13,,43.3169,-90.3777
+675,GMIW3,GAYS MILLS,215 meters,station snow depth,2.54,cm,2005-02-28 14,,43.3168,-90.8452
+676,LWDI4,"LOWDEN,IA",225 meters,station snow depth,2.54,cm,2005-02-28 13,,41.8667,-90.9333
+677,LSE,LA CROSSE MUNICIPAL AIRPORT,196 meters,station snow depth,2.54,cm,2005-03-01 00,,43.8792,-91.2561
+678,LCFW3,FRENCH ISLAND,205 meters,station snow depth,2.54,cm,2005-02-28 13,,43.8669,-91.2725
+679,LNBM5,LANESBORO PARK AND REC,257 meters,station snow depth,2.54,cm,2005-02-28 13,,43.7203,-91.9718
+680,PTNM5,PRESTON,284 meters,station snow depth,2.54,cm,2005-02-28 14,,43.6725,-92.0747
+681,RSRM5,ROCHESTER AP 2NE,386 meters,station snow depth,2.54,cm,2005-02-28 13,,43.9281,-92.4758
+682,RST,"ROCHESTER,MN",391 meters,station snow depth,2.54,cm,2005-02-28 13,,43.9089,-92.4978
+683,FIRM5,"FAIRMONT,MN",356 meters,station snow depth,2.54,cm,2005-02-28 13,,43.6333,-94.4667
+684,ASTS2,OAK LAKE FIELD STATION,550 meters,station snow depth,2.54,cm,2005-02-28 14,,44.5167,-96.5319
+685,ATY,WATERTOWN MUNICIPAL AIRPORT,527 meters,station snow depth,2.54,cm,2005-03-01 00,,44.9142,-97.1544
+686,ANVS2,"1MI.NW ANDOVER,SD",451 meters,station snow depth,2.54,cm,2005-02-28 18,,45.4136,-97.9063
+687,MELS2,ABERDEEN-21MI.S,388 meters,station snow depth,2.54,cm,2005-02-28 13,,45.15,-98.5
+688,GOVO3,"GOVERNMENT CAMP,OR",1223 meters,station snow depth,2.54,cm,2005-02-28 16,,45.3014,-121.7411
+689,IPSS2,ABERDEEN-26MI.W,468 meters,station snow depth,2.54,cm,2005-03-01 04,,45.45,-99.0333
+690,LNTN8,"LINTON,ND",521 meters,station snow depth,2.54,cm,2005-02-28 13,,46.25,-100.2333
+691,POLS2,MOBRIDGE-27MI.NNE,504 meters,station snow depth,2.54,cm,2005-03-01 01,,45.9,-100.2833
+692,PLNW1,PLAIN,585 meters,station snow depth,2.54,cm,2005-03-01 03,,47.7811,-120.6508
+693,CRCP1,CROOKED CREEK DAM,278 meters,station snow depth,1.27,cm,2005-02-28 12,,40.7153,-79.5111
+694,YKNN7,"6MI.E YADKINVILLE,NC",259 meters,station snow depth,0.0,cm,2005-02-28 14,,36.1306,-80.5481
+695,HTSN7,FRENCH BROAD @ HOT SPRINGS,403 meters,station snow depth,0.0,cm,2005-02-28 12,,35.8936,-82.8233
+696,CSPK2,"CLOSPLINT,KY",533 meters,station snow depth,0.0,cm,2005-02-28 12,,36.8833,-83.0167
+697,FLG,FLAGSTAFF AP,2135 meters,station snow depth,0.0,cm,2005-03-01 00,,35.1442,-111.6664
+698,HSNN4,0.2 MI E OF HARRISON P.O. PASSIAC RVR,2 meters,station snow depth,0.0,cm,2005-02-28 12,,40.75,-74.1333
+699,SMDN4,"4MI.SW SOMERDALE,NJ",16 meters,station snow depth,0.0,cm,2005-02-28 12,,39.8372,-75.0442
+700,NHDP1,"2MI.SE NEW HOLLAND,PA",183 meters,station snow depth,0.0,cm,2005-02-28 12,,40.075,-76.0717
+701,MECM2,"5MI.NE MECHANICSVILLE,MD",39 meters,station snow depth,0.0,cm,2005-02-28 12,,38.4617,-76.6992
+702,SLGP1,"2MI.S SELINSGROVE,PA",126 meters,station snow depth,0.0,cm,2005-02-28 12,,40.7831,-76.8611
+703,RNSW2,RANSON 4NW,170 meters,station snow depth,0.0,cm,2005-02-28 13,,39.3247,-77.9203
+704,SPYV2,"SPERRYVILLE,VA",251 meters,station snow depth,0.0,cm,2005-02-28 10,,38.6167,-78.2333
+705,SAXP1,"SAXTON,PA",312 meters,station snow depth,0.0,cm,2005-02-28 12,,40.2,-78.25
+706,NEFP1,NEW FLORENCE,463 meters,station snow depth,0.0,cm,2005-02-28 12,,40.3333,-79.0833
+707,INDP1,INDIANA,337 meters,station snow depth,0.0,cm,2005-02-28 12,,40.5967,-79.1178
+708,SAGP1,SAGAMORE,358 meters,station snow depth,0.0,cm,2005-02-28 12,,40.7819,-79.2375
+709,CNMP1,CONEMAUGH DAM,295 meters,station snow depth,0.0,cm,2005-02-28 12,,40.4683,-79.3678
+710,FWVW2,FELLOWSVILLE,427 meters,station snow depth,0.0,cm,2005-02-28 12,,39.3297,-79.8286
+711,TYGW2,DAM,298 meters,station snow depth,0.0,cm,2005-02-28 12,,39.3167,-80.0333
+712,WYNP1,WAYNESBURG,288 meters,station snow depth,0.0,cm,2005-02-28 12,,39.8986,-80.1656
+713,BRCO1,UNKNOWN,330 meters,station snow depth,0.0,cm,2005-02-28 12,,41.0,-80.98
+714,BERO1,BERLIN LAKE DAM,332 meters,station snow depth,0.0,cm,2005-02-28 12,,41.0333,-81.0167
+715,RAVO1,WATER PLANT,336 meters,station snow depth,0.0,cm,2005-02-28 12,,41.1333,-81.2833
+716,STWO1,MONROE FALLS,341 meters,station snow depth,0.0,cm,2005-02-28 12,,41.1311,-81.4
+717,WOOO1,EXPERIMENT STN,307 meters,station snow depth,0.0,cm,2005-02-28 13,,40.7833,-81.9167
+718,CRYK2,LEFT FORK OF LITTLE BLAINE CREEK,257 meters,station snow depth,0.0,cm,2005-02-28 12,,38.0103,-82.6953
+719,BELO1,BELFAST,254 meters,station snow depth,0.0,cm,2005-02-28 12,,39.0619,-83.5317
+720,FWA,FORT WAYNE INTERNATIONAL AIRPORT,243 meters,station snow depth,0.0,cm,2005-03-01 00,,40.9783,-85.195
+721,IND,"INDIANAPOLIS, IN",237 meters,station snow depth,0.0,cm,2005-03-01 00,,39.7172,-86.2942
+722,WHTI3,"WHITESTOWN,IN",283 meters,station snow depth,0.0,cm,2005-02-28 22,,40.0,-86.3333
+723,PYVI3,"4MI.WNW PERRYSVILLE,IN",187 meters,station snow depth,0.0,cm,2005-02-28 14,,40.0667,-87.5
+724,DNVI2,DANVILLE SEWAGE PLANT,164 meters,station snow depth,0.0,cm,2005-02-28 13,,40.1022,-87.5964
+725,PASI2,PALESTINE,140 meters,station snow depth,0.0,cm,2005-03-01 00,,38.9986,-87.6419
+726,HOPI2,HOOPESTON,230 meters,station snow depth,0.0,cm,2005-02-28 13,,40.4744,-87.6558
+727,PWWI2,PARIS WATER WORKS,203 meters,station snow depth,0.0,cm,2005-02-28 13,,39.6356,-87.6933
+728,MFDI2,"5MI.NW MILFORD,IL",204 meters,station snow depth,0.0,cm,2005-02-28 14,,40.6842,-87.7561
+729,OGDI2,OGDEN,206 meters,station snow depth,0.0,cm,2005-02-28 12,,40.11,-87.9567
+730,HRSI2,HERSCHER,209 meters,station snow depth,0.0,cm,2005-02-28 13,,41.0475,-88.0981
+731,TUSI2,TUSCOLA,199 meters,station snow depth,0.0,cm,2005-02-28 13,,39.7944,-88.2903
+732,CHTI2,"CHATSWORTH,IL",228 meters,station snow depth,0.0,cm,2005-02-28 13,,40.7536,-88.2919
+733,ARCI2,ARCOLA,205 meters,station snow depth,0.0,cm,2005-02-28 13,,39.69,-88.2925
+734,MHTI2,MAHOMET,230 meters,station snow depth,0.0,cm,2005-02-28 13,,40.2014,-88.4047
+735,CWWI2,CITY WATER WORKS WITHIN,196 meters,station snow depth,0.0,cm,2005-02-28 13,,41.0833,-88.4167
+736,FLRI2,FLORA,153 meters,station snow depth,0.0,cm,2005-03-01 00,,38.7156,-88.5822
+737,WISI2,WINDSOR,217 meters,station snow depth,0.0,cm,2005-03-01 00,,39.4398,-88.5918
+738,SILI2,SULLIVAN,197 meters,station snow depth,0.0,cm,2005-02-28 13,,39.5608,-88.6067
+739,EFFI2,EFFINGHAM,179 meters,station snow depth,0.0,cm,2005-02-28 13,,39.1189,-88.6242
+740,DCAI2,DECATUR 4N,196 meters,station snow depth,0.0,cm,2005-02-28 13,,39.9078,-88.9563
+741,MINI2,MINONK,224 meters,station snow depth,0.0,cm,2005-02-28 13,,40.9125,-89.0339
+742,BLMI2,BLOOMINGTON,266 meters,station snow depth,0.0,cm,2005-02-28 12,,40.4856,-89.0872
+743,STFI2,STANFORD,202 meters,station snow depth,0.0,cm,2005-02-28 13,,40.3992,-89.2167
+744,MTPI2,MOUNT PULASKI,192 meters,station snow depth,0.0,cm,2005-02-28 12,,40.0047,-89.2764
+745,MACI2,MACKINAW,214 meters,station snow depth,0.0,cm,2005-02-28 12,,40.5514,-89.3344
+746,ILX,"CENTRAL ILLINOIS, IL",178 meters,station snow depth,0.0,cm,2005-02-28 12,,40.1506,-89.3383
+747,MRTI2,MORTON,217 meters,station snow depth,0.0,cm,2005-02-28 13,,40.6125,-89.4417
+748,MRVI2,MORRISONVILLE,191 meters,station snow depth,0.0,cm,2005-02-28 13,,39.4158,-89.4614
+749,SHRI2,SHERMAN,174 meters,station snow depth,0.0,cm,2005-02-28 13,,39.8886,-89.5989
+750,AHNI2,ATHENS 2SW,180 meters,station snow depth,0.0,cm,2005-02-28 12,,39.9461,-89.7594
+751,PRII2,PRINCEVILLE,221 meters,station snow depth,0.0,cm,2005-02-28 13,,40.9322,-89.78
+752,SDVI2,ST DAVID,190 meters,station snow depth,0.0,cm,2005-02-28 13,,40.4928,-90.0521
+753,SSCM7,SCIENCE CENTER,172 meters,station snow depth,0.0,cm,2005-02-28 15,,38.6333,-90.2
+754,UCTM7,UNIVERSITY CITY,163 meters,station snow depth,0.0,cm,2005-02-28 13,,38.6736,-90.3239
+755,GBGI2,GALESBURG,230 meters,station snow depth,0.0,cm,2005-03-01 00,,40.9464,-90.3853
+756,PRCI2,PRAIRIE CITY,208 meters,station snow depth,0.0,cm,2005-02-28 12,,40.5914,-90.4639
+757,SPEM7,"ST LOUIS,MO",154 meters,station snow depth,0.0,cm,2005-02-28 13,,38.8,-90.5667
+758,FMDM7,LAKE ST. LOUIS 2SW,192 meters,station snow depth,0.0,cm,2005-02-28 13,,38.7631,-90.8236
+759,BRL,BURLINGTON REGIONAL AIRPORT,210 meters,station snow depth,0.0,cm,2005-02-28 12,,40.7833,-91.1253
+760,FTNM7,"FULTON,MO",240 meters,station snow depth,0.0,cm,2005-02-28 13,,38.85,-91.95
+761,KRKM7,KIRKSVILLE,292 meters,station snow depth,0.0,cm,2005-02-28 13,,40.2057,-92.5748
+762,ALBI4,"3MI.NNE ALBIA,IA",247 meters,station snow depth,0.0,cm,2005-02-28 13,,41.0667,-92.7833
+763,UNVM7,UNIONVILLE,321 meters,station snow depth,0.0,cm,2005-02-28 13,,40.475,-93.0031
+764,MWM,GOODLAND CITY #3,1131 meters,station snow depth,0.0,cm,2005-02-28 12,,43.9134,-95.1094
+765,CLHC2,CALHAN 5SW AMRAD,2008 meters,station snow depth,0.0,cm,2005-02-28 14,,39.0125,-104.385
+766,BKFC2,BLACK FOREST AMRAD,2143 meters,station snow depth,0.0,cm,2005-02-28 14,,39.0889,-104.4758
+767,DCRC2,DEER CREEK CANYON,2161 meters,station snow depth,0.0,cm,2005-02-28 14,,39.5717,-105.2167
+768,BUEW4,NR TWIN MTNS,2369 meters,station snow depth,0.0,cm,2005-02-28 15,,41.0706,-105.2519
+769,FRSC2,FLORISSANT AMRAD,2629 meters,station snow depth,0.0,cm,2005-02-28 14,,38.9653,-105.2915
+770,ROSC2,ROSITA AMRAD,2723 meters,station snow depth,0.0,cm,2005-02-28 14,,38.1,-105.35
+771,LGEC2,AMRAD,2458 meters,station snow depth,0.0,cm,2005-02-28 14,,38.9897,-105.3725
+772,CRHC2,CROW HILL AMRAD,2578 meters,station snow depth,0.0,cm,2005-02-28 14,,39.4239,-105.4539
+773,ASIC2,ASPEN SPRINGS AMRAD,2808 meters,station snow depth,0.0,cm,2005-02-28 14,,39.8333,-105.4833
+774,JEFC2,AMRAD,2860 meters,station snow depth,0.0,cm,2005-02-28 14,,39.2958,-105.7467
+775,ANTC2,SOUTH PLATTE RIVER,2726 meters,station snow depth,0.0,cm,2005-02-28 14,,38.9933,-105.8919
+776,WRRP1,"WARREN,PA",419 meters,station snow depth,0.0,cm,2005-02-28 12,,41.85,-79.1333
+777,SOUO1,UNKNOWN,278 meters,station snow depth,0.0,cm,2005-02-28 12,,41.27,-80.94972
+778,GARO1,UNKNOWN,314 meters,station snow depth,0.0,cm,2005-02-28 12,,41.28,-81.1
+779,MRIM4,"MORENCI,MI",233 meters,station snow depth,0.0,cm,2005-02-28 12,,41.7167,-84.2
+780,SBN,SOUTH BEND REGIONAL AIRPORT,235 meters,station snow depth,0.0,cm,2005-03-01 00,,41.7089,-86.3183
+781,WHII3,WHITING,179 meters,station snow depth,0.0,cm,2005-02-28 12,,41.6825,-87.5103
+782,MDWI2,"BURBANK,IL",191 meters,station snow depth,0.0,cm,2005-02-28 12,,41.7333,-87.7667
+783,CNNI2,CHICAGO,202 meters,station snow depth,0.0,cm,2005-02-28 12,,41.97,-87.8072
+784,WLBI2,WILLOWBROOK,222 meters,station snow depth,0.0,cm,2005-02-28 12,,41.7322,-87.9486
+785,GLEI2,GLEN ELLYN 4S,210 meters,station snow depth,0.0,cm,2005-02-28 13,,41.8267,-88.0581
+786,CTYI2,GOOSE LAKE AREA,159 meters,station snow depth,0.0,cm,2005-02-28 12,,41.3416,-88.2978
+787,MOSI2,"1MI.NW MORRIS,IL",160 meters,station snow depth,0.0,cm,2005-02-28 14,,41.3739,-88.4336
+788,PNOI2,PLANO,181 meters,station snow depth,0.0,cm,2005-02-28 13,,41.6519,-88.5292
+789,NWKI2,"2MI.SSE NEWARK,IL",227 meters,station snow depth,0.0,cm,2005-02-28 12,,41.5325,-88.5536
+790,Y16W3,DELAVAN,286 meters,station snow depth,0.0,cm,2005-02-28 14,,42.62444,-88.62722
+791,Y77W3,MILLARD,283 meters,station snow depth,0.0,cm,2005-02-28 14,,44.75333,-89.77806
+792,WHTW3,"WHITEWATER,WI",244 meters,station snow depth,0.0,cm,2005-02-28 14,,42.8567,-88.7294
+793,FATW3,"FORT ATKINSON,WI",246 meters,station snow depth,0.0,cm,2005-02-28 13,,42.8833,-88.8333
+794,ARGW3,ARGYLE,261 meters,station snow depth,0.0,cm,2005-02-28 13,,42.7006,-89.0189
+795,BROW3,"BRODHEAD,WI",240 meters,station snow depth,0.0,cm,2005-02-28 14,,42.6172,-89.3897
+796,FEEI2,PECATONICA RIVER,233 meters,station snow depth,0.0,cm,2005-02-28 13,,42.3,-89.6167
+797,MONW3,"1MI.W MONROE,WI",303 meters,station snow depth,0.0,cm,2005-02-28 13,,42.6,-89.6667
+798,MAZW3,MAZOMANIE,232 meters,station snow depth,0.0,cm,2005-02-28 15,,43.1708,-89.8192
+799,KEWI2,"1MI.E KEWANEE,IL",245 meters,station snow depth,0.0,cm,2005-02-28 13,,41.25,-89.9
+800,RDBW3,REEDSBURG 1NNE,279 meters,station snow depth,0.0,cm,2005-02-28 13,,43.5533,-89.9972
+801,MLI,QUAD CITY INTL,176 meters,station snow depth,0.0,cm,2005-02-28 12,,41.4486,-90.5075
+802,DVN,"QUAD CITIES, IA",231 meters,station snow depth,0.0,cm,2005-02-28 12,,41.6117,-90.5892
+803,MKTI4,"2MI.W MAQUOKETA,IA",227 meters,station snow depth,0.0,cm,2005-02-28 13,,42.0667,-90.7
+804,DBQ,"DUBUQUE,IA",322 meters,station snow depth,0.0,cm,2005-02-28 12,,42.4031,-90.7092
+805,LANW3,LANCASTER 4WSW,307 meters,station snow depth,0.0,cm,2005-02-28 14,,42.8278,-90.7889
+806,SRTW3,SPARTA,238 meters,station snow depth,0.0,cm,2005-02-28 14,,43.9365,-90.8163
+807,SBNW3,STEUBEN 4SE,312 meters,station snow depth,0.0,cm,2005-02-28 13,,43.1343,-90.8372
+808,CRPI4,NO. 1,261 meters,station snow depth,0.0,cm,2005-03-01 00,,42.0333,-91.5833
+809,WSHI4,"WASHINGTON,IA",229 meters,station snow depth,0.0,cm,2005-02-28 13,,41.2833,-91.6833
+810,INDI4,"5MI.ENE INDEPENDANCE,IA",306 meters,station snow depth,0.0,cm,2005-02-28 12,,42.4833,-91.8167
+811,CRCI4,CRESCO 1NE,375 meters,station snow depth,0.0,cm,2005-02-28 13,,43.3894,-92.0938
+812,ALO,"WATERLOO,IA",265 meters,station snow depth,0.0,cm,2005-02-28 12,,42.5569,-92.4
+813,TLDI4,"TOLEDO,IA",271 meters,station snow depth,0.0,cm,2005-02-28 13,,41.9833,-92.5833
+814,GNDI4,"GRUNDY CENTER,IA",312 meters,station snow depth,0.0,cm,2005-02-28 13,,42.3553,-92.7739
+815,MSHI4,"MARSHALLTOWN,IA",277 meters,station snow depth,0.0,cm,2005-02-28 13,,42.0667,-92.9333
+816,ELDI4,"ELDORA,IA",322 meters,station snow depth,0.0,cm,2005-02-28 13,,42.35,-93.1
+817,FSCI4,"2MI.NNE FOREST CITY,IA",389 meters,station snow depth,0.0,cm,2005-02-28 13,,43.2839,-93.6308
+818,DSM,"DES MOINES,IA",249 meters,station snow depth,0.0,cm,2005-03-01 00,,41.5339,-93.6625
+819,WEBI4,"WEBSTER CITY,IA",328 meters,station snow depth,0.0,cm,2005-02-28 13,,42.4667,-93.8
+820,TKAI4,"5MI.NE TITONKA,IA",351 meters,station snow depth,0.0,cm,2005-02-28 14,,43.2833,-93.9833
+821,RKWI4,"ROCKWELL CITY,IA",365 meters,station snow depth,0.0,cm,2005-02-28 13,,42.4,-94.6167
+822,MJQ,JACKSON,436 meters,station snow depth,0.0,cm,2005-02-28 12,,43.65,-94.9867
+823,SPRI4,"SPIRIT LAKE,IA",448 meters,station snow depth,0.0,cm,2005-03-01 06,,43.4231,-95.1
+824,VICI4,VICKS CORNER-SPIRIT LAKE IOWA,440 meters,station snow depth,0.0,cm,2005-03-01 06,,43.4314,-95.1822
+825,LKFM5,"LAKEFIELD,MN",441 meters,station snow depth,0.0,cm,2005-02-28 13,,43.6833,-95.1833
+826,SPW,SPENCER MUNICIPAL AIRPORT,406 meters,station snow depth,0.0,cm,2005-02-28 12,,43.1642,-95.2006
+827,DNSI4,"DENISON,IA",418 meters,station snow depth,0.0,cm,2005-02-28 13,,42.0358,-95.3297
+828,ORC,ORANGE CITY,421 meters,station snow depth,0.0,cm,2005-02-28 12,,42.4164,-96.3933
+829,PQN,PIPESTONE,526 meters,station snow depth,0.0,cm,2005-02-28 12,,43.9333,-96.3033
+830,FLAS2,BROOKINGS-22MI.SSE,474 meters,station snow depth,0.0,cm,2005-02-28 13,,44.05,-96.6
+831,FSD,"SIOUX FALLS, SD",440 meters,station snow depth,0.0,cm,2005-02-28 12,,43.5875,-96.7294
+832,BROS2,"2MI.NE BROOKINGS,SD",503 meters,station snow depth,0.0,cm,2005-02-28 14,,44.3167,-96.7667
+833,BKX,BROOKINGS MUNICIPAL AIRPORT,491 meters,station snow depth,0.0,cm,2005-02-28 12,,44.3047,-96.8169
+834,HYTS2,HAYTI 1W,509 meters,station snow depth,0.0,cm,2005-02-28 14,,44.6633,-97.2267
+835,MRFS2,"2MI.E MADISON,SD",536 meters,station snow depth,0.0,cm,2005-02-28 15,,44.0,-97.2333
+836,YTNS2,"2MI.SE YANKTON,SD",357 meters,station snow depth,0.0,cm,2005-02-28 12,,42.8783,-97.3633
+837,OFK,"NORFOLK,NE",466 meters,station snow depth,0.0,cm,2005-02-28 12,,41.9856,-97.4347
+838,CLAS2,WATERTOWN-30MI.W,538 meters,station snow depth,0.0,cm,2005-02-28 13,,44.9167,-97.7333
+839,TYNS2,"TYNDALL, SD",433 meters,station snow depth,0.0,cm,2005-02-28 14,,42.99,-97.8625
+840,MHE,MITCHELL MUNICIPAL AIRPORT,395 meters,station snow depth,0.0,cm,2005-02-28 12,,43.7747,-98.0383
+841,CNDS2,ABERDEEN-28MI.SE,395 meters,station snow depth,0.0,cm,2005-02-28 14,,45.15,-98.1
+842,HON,"HURON,SD",386 meters,station snow depth,0.0,cm,2005-02-28 12,,44.3853,-98.2286
+843,PKSS2,"PICKSTOWN,SD",452 meters,station snow depth,0.0,cm,2005-02-28 13,,43.0689,-98.5325
+844,WITS2,MITCHELL-36MI.W,496 meters,station snow depth,0.0,cm,2005-02-28 14,,43.7333,-98.7167
+845,UNRS2,WFO RAPID CITY,1031 meters,station snow depth,0.0,cm,2005-03-01 00,,44.0725,-103.2122
+846,CLAW4,CLARK 3NE CLARKS FORK RV NR,1271 meters,station snow depth,0.0,cm,2005-02-28 15,,44.9167,-109.1333
+847,ROSS2,"ROSCOE,SD",552 meters,station snow depth,0.0,cm,2005-02-28 13,,45.45,-99.35
+848,SREN8,"7MI.NW STREETER,ND",575 meters,station snow depth,0.0,cm,2005-02-28 14,,46.7333,-99.4833
+849,TULN8,"TURTLE LAKE,ND",577 meters,station snow depth,0.0,cm,2005-03-01 01,,47.5167,-100.8833
+850,ISN,SLOULIN FIELD-INTL APT,587 meters,station snow depth,0.0,cm,2005-03-01 00,,48.1781,-103.6419
+851,PIRI1,PIERCE,933 meters,station snow depth,0.0,cm,2005-02-28 15,,46.4922,-115.8006

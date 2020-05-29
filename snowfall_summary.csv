@@ -1,0 +1,66 @@
+,ski_region,Amount,Units,Name,Physical_Element,DateTime_Report(UTC)
+0,Midwest,152.4,mm,1,station raw snowfall,2004
+1,Pacific West (total),4419.9000000000015,mm,61,station raw snowfall,2004
+0,Midwest,4900.420000000009,mm,178,station raw snowfall,2005
+1,Pacific West (total),96.56,mm,5,station raw snowfall,2005
+2,Southeast,15.24,mm,1,station raw snowfall,2005
+0,Midwest,980.0299999999992,mm,90,snowfall,2006
+1,Northeast,4069.5099999999948,mm,167,snowfall,2006
+2,Pacific West (total),2316.7599999999998,mm,46,snowfall,2006
+3,Southeast,1427.5799999999995,mm,25,snowfall,2006
+0,Midwest,8898.621999999972,mm,1480,snowfall,2007
+1,Northeast,3398.530000000003,mm,426,snowfall,2007
+2,Pacific West (total),26802.471000000216,mm,1155,snowfall,2007
+3,Southeast,0.254,mm,413,snowfall,2007
+0,Midwest,4122.855999999973,cm,1916,snowfall,2008
+1,Northeast,602.606,cm,388,snowfall,2008
+2,Pacific West (total),27.37699999999999,cm,1333,snowfall,2008
+3,Southeast,130.794,cm,1572,snowfall,2008
+0,Midwest,2627.7710000000243,cm,1998,snowfall,2009
+1,Northeast,181.33199999999962,cm,455,snowfall,2009
+2,Pacific West (total),586.4669999999994,cm,1578,snowfall,2009
+3,Southeast,96.30600000000004,cm,1179,snowfall,2009
+0,Midwest,906.247000000001,cm,2512,snowfall,2010
+1,Northeast,3722.970999999985,cm,895,snowfall,2010
+2,Pacific West (total),470.3379999999997,cm,2039,snowfall,2010
+3,Southeast,429.01500000000004,cm,2387,snowfall,2010
+0,Midwest,178.60799999999978,cm,1369,snowfall,2011
+1,Northeast,5245.217000000009,cm,653,snowfall,2011
+2,Pacific West (total),709.8869999999972,cm,1761,snowfall,2011
+3,Southeast,0.002,cm,1369,snowfall,2011
+0,Midwest,2172.022999999994,cm,1851,snowfall,2012
+1,Northeast,27635.645000000197,cm,2173,snowfall,2012
+2,Pacific West (total),2942.7799999999856,cm,1764,snowfall,2012
+3,Southeast,3.531,cm,1083,snowfall,2012
+0,Midwest,2471.0969999999793,cm,2474,snowfall,2013
+1,Northeast,9499.704000000027,cm,1161,snowfall,2013
+2,Pacific West (total),132.04699999999997,cm,2027,snowfall,2013
+3,Southeast,200.77799999999985,cm,2447,snowfall,2013
+0,Midwest,327.0110000000001,cm,2492,snowfall,2014
+1,Northeast,1033.0819999999933,cm,678,snowfall,2014
+2,Pacific West (total),2705.1399999999976,cm,2116,snowfall,2014
+3,Southeast,0.017,cm,2683,snowfall,2014
+0,Midwest,816.2890000000001,cm,2459,snowfall,2015
+1,Northeast,30.529999999999983,cm,633,snowfall,2015
+2,Pacific West (total),3900.625999999992,cm,2219,snowfall,2015
+3,Southeast,882.5459999999983,cm,2302,snowfall,2015
+0,Midwest,1566.4739999999817,cm,3134,snowfall,2016
+1,Northeast,163.09999999999997,cm,1064,snowfall,2016
+2,Pacific West (total),342.5959999999997,cm,2783,snowfall,2016
+3,Southeast,0.003,cm,3513,snowfall,2016
+0,Midwest,489.7769999999995,cm,2880,snowfall,2017
+1,Northeast,1.569,cm,1179,snowfall,2017
+2,Pacific West (total),6517.645000000002,cm,2813,snowfall,2017
+3,Southeast,0.009000000000000001,cm,2666,snowfall,2017
+0,Midwest,99.85699999999999,cm,2906,snowfall,2018
+1,Northeast,43.691,cm,1215,snowfall,2018
+2,Pacific West (total),1276.1739999999945,cm,2720,snowfall,2018
+3,Southeast,0.0,cm,2379,snowfall,2018
+0,Midwest,1197.2119999999854,cm,3088,snowfall,2019
+1,Northeast,12871.059000000078,cm,2080,snowfall,2019
+2,Pacific West (total),2717.2439999999806,cm,2737,snowfall,2019
+3,Southeast,59.80300000000004,cm,1932,snowfall,2019
+0,Midwest,1059.1099999999979,cm,3311,snowfall,2020
+1,Northeast,6542.67999999999,cm,1635,snowfall,2020
+2,Pacific West (total),155.055,cm,2677,snowfall,2020
+3,Southeast,1762.0669999999861,cm,3207,snowfall,2020

@@ -1,0 +1,69 @@
+,ski_region,Amount,Units,Name,Physical_Element,DateTime_Report(UTC)
+0,Midwest,3933.699999999994,cm,203,station snow depth,2004
+1,Northeast,4283.709999999995,cm,172,station snow depth,2004
+2,Pacific West (total),6991.349999999996,cm,208,station snow depth,2004
+3,Southeast,67.31,cm,14,station snow depth,2004
+0,Midwest,5669.279999999973,cm,439,station snow depth,2005
+1,Northeast,5427.989999999988,cm,255,station snow depth,2005
+2,Pacific West (total),3136.899999999999,cm,88,station snow depth,2005
+3,Southeast,718.8199999999999,cm,66,station snow depth,2005
+0,Midwest,6387.4599999999855,cm,339,snowdepth,2006
+1,Northeast,2521.6399999999935,cm,258,snowdepth,2006
+2,Pacific West (total),5892.799999999992,cm,134,snowdepth,2006
+3,Southeast,124.46,cm,18,snowdepth,2006
+0,Midwest,19654.322000000207,cm,1473,snowdepth,2007
+1,Northeast,15247.543000000025,cm,556,snowdepth,2007
+2,Pacific West (total),130104.97599999922,cm,1655,snowdepth,2007
+3,Southeast,416.1179999999999,cm,402,snowdepth,2007
+0,Midwest,31274.43800000025,cm,1948,snowdepth,2008
+1,Northeast,13739.042000000069,cm,517,snowdepth,2008
+2,Pacific West (total),132795.90799999994,cm,1688,snowdepth,2008
+3,Southeast,637.5060000000002,cm,591,snowdepth,2008
+0,Midwest,17737.50600000038,cm,1768,snowdepth,2009
+1,Northeast,7827.925999999981,cm,471,snowdepth,2009
+2,Pacific West (total),114729.80199999965,cm,1919,snowdepth,2009
+3,Southeast,78.75500000000001,cm,566,snowdepth,2009
+0,Midwest,37060.467000000215,cm,2067,snowdepth,2010
+1,Northeast,24387.38600000009,cm,811,snowdepth,2010
+2,Pacific West (total),120596.32299999958,cm,2191,snowdepth,2010
+3,Southeast,5116.730999999996,cm,702,snowdepth,2010
+0,Midwest,27099.431000000463,cm,2157,snowdepth,2011
+1,Northeast,25825.035000000047,cm,775,snowdepth,2011
+2,Pacific West (total),156823.42599999908,cm,2433,snowdepth,2011
+3,Southeast,76.21,cm,726,snowdepth,2011
+0,Midwest,15273.73500000014,cm,1816,snowdepth,2012
+1,Northeast,9669.864000000047,cm,789,snowdepth,2012
+2,Pacific West (total),157049.65899999934,cm,2468,snowdepth,2012
+3,Southeast,0.0,cm,639,snowdepth,2012
+0,Midwest,36463.75400000016,cm,2510,snowdepth,2013
+1,Northeast,11603.179000000111,cm,788,snowdepth,2013
+2,Pacific West (total),143216.38999999984,cm,2472,snowdepth,2013
+3,Southeast,628.0289999999999,cm,914,snowdepth,2013
+0,Midwest,40965.72100000018,cm,1965,snowdepth,2014
+1,Northeast,18653.337000000098,cm,809,snowdepth,2014
+2,Pacific West (total),163878.1189999998,cm,2466,snowdepth,2014
+3,Southeast,334.11699999999996,cm,769,snowdepth,2014
+0,Midwest,26825.562000000507,cm,2220,snowdepth,2015
+1,Northeast,31579.331000000082,cm,780,snowdepth,2015
+2,Pacific West (total),130074.51799999902,cm,2758,snowdepth,2015
+3,Southeast,7055.1259999999775,cm,1315,snowdepth,2015
+0,Midwest,8017.972999999963,cm,1989,snowdepth,2016
+1,Northeast,1691.2859999999957,cm,747,snowdepth,2016
+2,Pacific West (total),130608.22499999953,cm,2463,snowdepth,2016
+3,Southeast,33.587999999999994,cm,800,snowdepth,2016
+0,Midwest,7104.416999999952,cm,1857,snowdepth,2017
+1,Northeast,7315.298000000001,cm,992,snowdepth,2017
+2,Pacific West (total),219958.03699999873,cm,2746,snowdepth,2017
+3,Southeast,1.0699999999999998,cm,848,snowdepth,2017
+0,Midwest,15872.148000000108,cm,1846,snowdepth,2018
+1,Northeast,4316.5729999999985,cm,820,snowdepth,2018
+2,Pacific West (total),151490.87899999967,cm,2612,snowdepth,2018
+3,Southeast,0.457,cm,858,snowdepth,2018
+0,Midwest,47104.657999999865,cm,1923,snowdepth,2019
+1,Northeast,17221.94000000015,cm,1008,snowdepth,2019
+2,Pacific West (total),229263.42400000035,cm,2586,snowdepth,2019
+3,Southeast,19.001999999999995,cm,694,snowdepth,2019
+0,Midwest,20367.200000000357,cm,2010,snowdepth,2020
+1,Northeast,10815.203000000052,cm,836,snowdepth,2020
+2,Pacific West (total),152797.63100000034,cm,2366,snowdepth,2020
+3,Southeast,1213.6929999999938,cm,870,snowdepth,2020

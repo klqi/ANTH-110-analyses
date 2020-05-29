@@ -1,0 +1,67 @@
+,ski_region,Amount,Units,Name,Physical_Element,DateTime_Report(UTC)
+0,Midwest,37.18,cm,4,station snow water equivalent,2004
+1,Northeast,17.7,cm,4,station snow water equivalent,2004
+2,Southeast,1.12,cm,1,station snow water equivalent,2004
+0,Midwest,224.29000000000005,cm,74,station snow water equivalent,2005
+1,Northeast,71.09000000000002,cm,17,station snow water equivalent,2005
+2,Southeast,59.63000000000001,cm,19,station snow water equivalent,2005
+0,Midwest,44.45,cm,4,swe,2006
+1,Northeast,16.84,cm,5,swe,2006
+2,Pacific West (total),13.72,cm,1,swe,2006
+3,Southeast,2.54,cm,1,swe,2006
+0,Midwest,384.63500000000016,cm,125,swe,2007
+1,Northeast,1170.8919999999998,cm,151,swe,2007
+2,Pacific West (total),27926.051000000014,cm,798,swe,2007
+3,Southeast,100.914,cm,63,swe,2007
+0,Midwest,581.9380000000002,cm,177,swe,2008
+1,Northeast,477.9519999999999,cm,66,swe,2008
+2,Pacific West (total),41759.502,cm,878,swe,2008
+3,Southeast,7.6450000000000005,cm,46,swe,2008
+0,Midwest,251.9570000000002,cm,142,swe,2009
+1,Northeast,155.07400000000004,cm,34,swe,2009
+2,Pacific West (total),30514.461000000032,cm,902,swe,2009
+3,Southeast,0.0,cm,78,swe,2009
+0,Midwest,663.739999999999,cm,178,swe,2010
+1,Northeast,466.3740000000001,cm,77,swe,2010
+2,Pacific West (total),30346.941999999985,cm,952,swe,2010
+3,Southeast,131.54600000000008,cm,103,swe,2010
+0,Midwest,1846.748,cm,383,swe,2011
+1,Northeast,1396.1530000000002,cm,162,swe,2011
+2,Pacific West (total),41928.395,cm,1056,swe,2011
+3,Southeast,9.652000000000001,cm,106,swe,2011
+0,Midwest,161.58100000000007,cm,162,swe,2012
+1,Northeast,274.50300000000004,cm,125,swe,2012
+2,Pacific West (total),28794.43200000004,cm,1056,swe,2012
+3,Southeast,0.0,cm,95,swe,2012
+0,Midwest,570.1339999999992,cm,245,swe,2013
+1,Northeast,126.756,cm,101,swe,2013
+2,Pacific West (total),30059.634000000002,cm,1036,swe,2013
+3,Southeast,3.315999999999996,cm,125,swe,2013
+0,Midwest,565.516,cm,140,swe,2014
+1,Northeast,234.98100000000005,cm,67,swe,2014
+2,Pacific West (total),27330.50599999999,cm,1030,swe,2014
+3,Southeast,9.527000000000001,cm,93,swe,2014
+0,Midwest,322.8569999999999,cm,182,swe,2015
+1,Northeast,354.12599999999986,cm,65,swe,2015
+2,Pacific West (total),19003.276000000045,cm,1083,swe,2015
+3,Southeast,221.88200000000003,cm,228,swe,2015
+0,Midwest,301.62700000000007,cm,246,swe,2016
+1,Northeast,223.975,cm,180,swe,2016
+2,Pacific West (total),32476.960000000046,cm,1042,swe,2016
+3,Southeast,0.0,cm,87,swe,2016
+0,Midwest,157.69200000000006,cm,158,swe,2017
+1,Northeast,982.7540000000001,cm,402,swe,2017
+2,Pacific West (total),52095.031999999985,cm,1095,swe,2017
+3,Southeast,0.0,cm,93,swe,2017
+0,Midwest,208.92,cm,177,swe,2018
+1,Northeast,435.0780000000002,cm,239,swe,2018
+2,Pacific West (total),25141.124000000018,cm,1038,swe,2018
+3,Southeast,0.0,cm,98,swe,2018
+0,Midwest,732.0209999999994,cm,201,swe,2019
+1,Northeast,172.79900000000006,cm,181,swe,2019
+2,Pacific West (total),42277.72399999996,cm,1087,swe,2019
+3,Southeast,0.059000000000000004,cm,101,swe,2019
+0,Midwest,183.90799999999993,cm,163,swe,2020
+1,Northeast,106.72300000000003,cm,145,swe,2020
+2,Pacific West (total),31760.903000000028,cm,1028,swe,2020
+3,Southeast,35.06100000000003,cm,157,swe,2020

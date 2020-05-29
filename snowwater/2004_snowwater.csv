@@ -1,0 +1,10 @@
+,Station_Id,Name,Elevation,Physical_Element,Amount,Units,DateTime_Report,Unnamed: 7,Latitude,Longitude
+0,MQT,"MARQUETTE, MI",-9999 meters,station snow water equivalent,19.3,cm,2004-03-01 02,,46.5311,-87.5483
+1,SPNN6,RESIDENCE OUTSIDE THE CITY,357 meters,station snow water equivalent,8.51,cm,2004-02-29 22,,42.2167,-76.4667
+2,CBYN8,"CROSBY, ND",595 meters,station snow water equivalent,8.38,cm,2004-03-01 06,,48.9072,-103.2928
+3,MECN6,MECKLENBURG,451 meters,station snow water equivalent,6.35,cm,2004-02-29 18,,42.4333,-76.75
+4,GLLM5,DAM,348 meters,station snow water equivalent,4.93,cm,2004-02-29 20,,46.4119,-94.35
+5,FORM5,"4MI.SE FOREST LAKE, MN",287 meters,station snow water equivalent,4.57,cm,2004-03-01 12,,45.2667,-92.9167
+6,WMSP1,"1MI.E WILLIAMSPORT, PA",160 meters,station snow water equivalent,1.57,cm,2004-03-01 09,,41.2486,-76.9833
+7,TWOP1,"1MI.ESE TOWANDA, PA",229 meters,station snow water equivalent,1.27,cm,2004-02-29 18,,41.7503,-76.4167
+8,BKNW2,BUCKHANNON,422 meters,station snow water equivalent,1.12,cm,2004-02-29 18,,39.0089,-80.2169

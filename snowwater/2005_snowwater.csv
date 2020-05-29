@@ -1,0 +1,111 @@
+,Station_Id,Name,Elevation,Physical_Element,Amount,Units,DateTime_Report,Unnamed: 7,Latitude,Longitude
+0,APLW3,RADIO STATION NEARBY,235 meters,station snow water equivalent,17.78,cm,2005-02-28 13,,44.2511,-88.3644
+1,WYTV2,"1MI.S WYTHEVILLE,VA",637 meters,station snow water equivalent,16.0,cm,2005-02-28 12,,36.9317,-81.0833
+2,PSCN6,"PISECO,NY",575 meters,station snow water equivalent,15.24,cm,2005-02-28 12,,43.45,-74.5333
+3,LOKW3,LAND O LAKES 10W,526 meters,station snow water equivalent,13.21,cm,2005-02-28 14,,46.1917,-89.4308
+4,BLUW2,BLUESTONE DAM,420 meters,station snow water equivalent,12.7,cm,2005-02-28 12,,37.65,-80.8831
+5,GREM1,SEBEC LAKE,134 meters,station snow water equivalent,10.92,cm,2005-02-28 21,,45.25,-69.2333
+6,LGKW3,LONG LAKE 3-NE,455 meters,station snow water equivalent,10.41,cm,2005-02-28 11,,45.8825,-88.6314
+7,LWBW2,"2MI.SSW LEWISBURG,WV",654 meters,station snow water equivalent,10.16,cm,2005-02-28 12,,37.7667,-80.4667
+8,ONMM5,RANGER STATION,386 meters,station snow water equivalent,8.13,cm,2005-02-28 14,,46.0672,-93.6667
+9,PSQW3,PRESQUE ISLE 4 SW,506 meters,station snow water equivalent,7.87,cm,2005-02-28 18,,46.1992,-89.7728
+10,LOWN6,"LOWVILLE,NY",378 meters,station snow water equivalent,7.37,cm,2005-02-28 12,,43.75,-75.5
+11,WPAW3,WAUPACA-3 SW - KING,287 meters,station snow water equivalent,7.11,cm,2005-02-28 12,,44.3311,-89.1469
+12,OWEW3,OWEN 3W,389 meters,station snow water equivalent,7.11,cm,2005-02-28 14,,44.9801,-90.5544
+13,FEDM5,LEECH LAKE DAM,400 meters,station snow water equivalent,6.86,cm,2005-02-28 14,,47.2467,-94.2228
+14,CRLM5,DAM,384 meters,station snow water equivalent,6.6,cm,2005-02-28 14,,46.6667,-94.1167
+15,MOUW3,MOUNTAIN 1 SW,284 meters,station snow water equivalent,6.35,cm,2005-02-28 14,,45.1722,-88.4939
+16,SKYM4,SPARTA SKYVIEW,258 meters,station snow water equivalent,6.1,cm,2005-02-28 12,,43.1428,-85.7158
+17,GLAM4,"GLADWIN,MI",254 meters,station snow water equivalent,5.33,cm,2005-02-28 12,,43.9756,-84.5
+18,AUBN6,"1MI.E AUBURN,NY",241 meters,station snow water equivalent,5.08,cm,2005-02-28 12,,42.9167,-76.5333
+19,ADDN6,"ADDISON,NY",310 meters,station snow water equivalent,5.08,cm,2005-02-28 11,,42.1,-77.2339
+20,HSPM4,"4MI.WNW HESPERIA,MI",237 meters,station snow water equivalent,5.08,cm,2005-02-28 12,,43.5833,-86.1
+21,ETWM4,"EAST TAWAS,MI",176 meters,station snow water equivalent,4.83,cm,2005-02-28 13,,44.2844,-83.5033
+22,SCTM4,PERE MARQUETTE RIVER,207 meters,station snow water equivalent,4.83,cm,2005-02-28 12,,43.95,-86.2833
+23,LSGI4,LANSING 4SE,251 meters,station snow water equivalent,4.57,cm,2005-02-28 13,,43.3197,-91.1617
+24,WTPC3,WEST THOMPSON LAKE/USCOE DAM,92 meters,station snow water equivalent,4.32,cm,2005-02-28 12,,41.95,-71.9
+25,ELOW3,ELCHO,500 meters,station snow water equivalent,4.32,cm,2005-02-28 15,,45.4464,-89.1711
+26,BRKI3,"BROOKVILLE,IN",204 meters,station snow water equivalent,3.94,cm,2005-02-28 11,,39.4239,-85.0128
+27,WCLM4,"4MI.SE WHITE CLOUD, MI",309 meters,station snow water equivalent,3.81,cm,2005-02-28 12,,43.7,-85.7
+28,WROW3,WILD ROSE-6 NE-TWIN LAKES,287 meters,station snow water equivalent,3.81,cm,2005-02-28 13,,44.2319,-89.1436
+29,FORM5,"4MI.SE FOREST LAKE,MN",271 meters,station snow water equivalent,3.35,cm,2005-02-28 13,,45.2667,-92.9167
+30,KIMW3,KIMBERLY,227 meters,station snow water equivalent,3.3,cm,2005-02-28 15,,44.2672,-88.3361
+31,UPMN8,"3MI.N UPHAM,ND",441 meters,station snow water equivalent,3.3,cm,2005-02-28 14,,48.6167,-100.7333
+32,GPDM4,44TH STREET,188 meters,station snow water equivalent,3.05,cm,2005-02-28 12,,42.9,-85.7667
+33,MOCW3,MANITOWOC,194 meters,station snow water equivalent,3.05,cm,2005-02-28 13,,44.0794,-87.6781
+34,WALN3,"1MI.ESE WALPOLE,NH",244 meters,station snow water equivalent,2.79,cm,2005-02-28 12,,43.0667,-72.4
+35,CDRP1,"COUDERSPORT,PA",502 meters,station snow water equivalent,2.79,cm,2005-02-28 12,,41.7683,-78.0269
+36,VALW3,VALDERS,255 meters,station snow water equivalent,2.79,cm,2005-02-28 13,,44.0664,-87.8797
+37,MFDW3,"MARSHFIELD,WI",368 meters,station snow water equivalent,2.79,cm,2005-02-28 13,,44.6333,-90.1
+38,ALTM5,ALTURA 5W,255 meters,station snow water equivalent,2.79,cm,2005-02-28 13,,44.0633,-92.0397
+39,LGRN8,"1MI.SSW LIDGERWOOD,ND",342 meters,station snow water equivalent,2.79,cm,2005-02-28 13,,46.0667,-97.1667
+40,LOCN6,"LOCKE,NY",435 meters,station snow water equivalent,2.64,cm,2005-02-28 12,,42.6,-76.4
+41,DNVV2,"DANVILLE,VA",127 meters,station snow water equivalent,2.54,cm,2005-02-28 12,,36.5869,-79.3886
+42,CHTN4,CHATHAM,111 meters,station snow water equivalent,2.54,cm,2005-02-28 12,,40.7439,-74.4158
+43,RICM4,RICHMOND 4 NNW,232 meters,station snow water equivalent,2.54,cm,2005-02-28 13,,42.8783,-82.7958
+44,INAM4,"1MI.WNW IONIA,MI",203 meters,station snow water equivalent,2.54,cm,2005-02-28 13,,42.9833,-85.0667
+45,ONCW3,SOUTH,265 meters,station snow water equivalent,2.54,cm,2005-02-28 14,,43.1117,-88.4997
+46,CNTW3,"CLINTONVILLE,WI",247 meters,station snow water equivalent,2.54,cm,2005-02-28 13,,44.6225,-88.765
+47,WHNP1,LEHIGH VALLEY,452 meters,station snow water equivalent,2.29,cm,2005-02-28 12,,41.1,-75.7333
+48,SUVN6,SYRACUSE UNIVERSITY,181 meters,station snow water equivalent,2.29,cm,2005-02-28 12,,43.0331,-76.1336
+49,ARBM4,UNIV OF MICH,270 meters,station snow water equivalent,2.29,cm,2005-02-28 12,,42.3,-83.7167
+50,APPW3,APPLETON NORTHWEST,242 meters,station snow water equivalent,2.29,cm,2005-02-28 13,,44.2786,-88.4386
+51,JIMW3,AAWO,307 meters,station snow water equivalent,2.29,cm,2005-02-28 12,,45.0667,-91.3333
+52,BKBW2,DAVIS.,1136 meters,station snow water equivalent,2.03,cm,2005-02-28 12,,39.0983,-79.4319
+53,TLLM3,TULLY LAKE/USACOE DAM,247 meters,station snow water equivalent,2.03,cm,2005-02-28 12,,42.6333,-72.2167
+54,VSSM4,"VASSAR,MI",191 meters,station snow water equivalent,2.03,cm,2005-02-28 12,,43.3667,-83.5833
+55,WBRM4,"3MI.SE WEST BRANCH,MI",269 meters,station snow water equivalent,2.03,cm,2005-02-28 13,,44.2539,-84.2011
+56,ROCM4,"3MI.SW ROCKFORD,MI",194 meters,station snow water equivalent,2.03,cm,2005-02-28 12,,43.0833,-85.6
+57,OKHW3,"OSHKOSH,WI",237 meters,station snow water equivalent,2.03,cm,2005-02-28 13,,44.0333,-88.5556
+58,STAW3,"STANLEY,WI",346 meters,station snow water equivalent,2.03,cm,2005-02-28 13,,44.9667,-90.9333
+59,BMRW3,"BLOOMER,WI",306 meters,station snow water equivalent,2.03,cm,2005-02-28 14,,45.1,-91.4833
+60,FLAN7,FLAT TOP IFLOWS,1315 meters,station snow water equivalent,1.78,cm,2005-02-28 12,,35.5733,-82.385
+61,CSKN6,CATSKILL 6SW,48 meters,station snow water equivalent,1.78,cm,2005-02-28 12,,42.1697,-73.9475
+62,MATP1,"MATAMORAS,PA",600 meters,station snow water equivalent,1.78,cm,2005-02-28 12,,41.3667,-76.7
+63,NECW3,NECEDAH 2SE,277 meters,station snow water equivalent,1.78,cm,2005-02-28 13,,43.9968,-90.0352
+64,BLAW3,BLAIR,262 meters,station snow water equivalent,1.78,cm,2005-02-28 14,,44.2925,-91.2229
+65,EGNM5,ELGIN 2SSW,330 meters,station snow water equivalent,1.78,cm,2005-02-28 13,,44.097,-92.2701
+66,FRBM5,"FARIBAULT,MN",299 meters,station snow water equivalent,1.78,cm,2005-02-28 13,,44.3,-93.2667
+67,WASM5,EXPERIMENT STN,351 meters,station snow water equivalent,1.78,cm,2005-02-28 14,,44.0667,-93.5167
+68,KIGN7,WTR TR PLT,235 meters,station snow water equivalent,1.73,cm,2005-02-28 12,,36.2231,-80.4292
+69,GDLM4,"GRAND LEDGE,MI",245 meters,station snow water equivalent,1.55,cm,2005-02-28 12,,42.7667,-84.7667
+70,DNBN7,DANBURY 5SE,225 meters,station snow water equivalent,1.52,cm,2005-02-28 12,,36.395,-80.1422
+71,FRSM2,"FROSTBURG,MD",663 meters,station snow water equivalent,1.52,cm,2005-02-28 12,,39.6667,-78.9333
+72,KEYW2,"3MI.E KEYSER,WV",455 meters,station snow water equivalent,1.52,cm,2005-02-28 13,,39.4206,-79.005
+73,BLFW2,NR BLUESTONE RIVER,876 meters,station snow water equivalent,1.52,cm,2005-02-28 12,,37.2581,-81.1903
+74,BLMN6,"2MI.SW BLOOMINGBURG,NY",216 meters,station snow water equivalent,1.52,cm,2005-02-28 12,,41.5,-74.4667
+75,HASM4,WWTP,239 meters,station snow water equivalent,1.52,cm,2005-02-28 12,,42.65,-85.3
+76,PTWW3,"PORT WASHINGTON,WI",175 meters,station snow water equivalent,1.52,cm,2005-02-28 13,,43.3833,-87.8667
+77,WABM5,WABASHA,214 meters,station snow water equivalent,1.52,cm,2005-02-28 13,,44.385,-92.0486
+78,GRFN8,UNIVERSITY,253 meters,station snow water equivalent,1.5,cm,2005-02-28 18,,47.9333,-97.0833
+79,OXNM2,"1MI.SE OXON HILL,MD",60 meters,station snow water equivalent,1.27,cm,2005-03-01 05,,38.5667,-76.9833
+80,LEXV2,KERRS CREEK,500 meters,station snow water equivalent,1.27,cm,2005-02-28 14,,37.85,-79.5833
+81,PSKV2,"PULASKI,VA",589 meters,station snow water equivalent,1.27,cm,2005-02-28 12,,37.05,-80.75
+82,GERW3,"GERMANTOWN,WI",264 meters,station snow water equivalent,1.27,cm,2005-02-28 14,,43.2167,-88.1167
+83,NELW3,NEILLSVILLE 3SW,309 meters,station snow water equivalent,1.27,cm,2005-02-28 12,,44.5289,-90.6381
+84,WESW3,WESTBY 1NE,394 meters,station snow water equivalent,1.27,cm,2005-02-28 13,,43.6749,-90.8077
+85,CFPV2,"FILTER PLANT LARC, USACE DCP",377 meters,station snow water equivalent,1.02,cm,2005-02-28 12,,37.8108,-79.9886
+86,BKNM4,"2MI.ENE BROOKLYN,MI",303 meters,station snow water equivalent,1.02,cm,2005-02-28 12,,42.1167,-84.2
+87,BRLW3,"BRILLION,WI",255 meters,station snow water equivalent,1.02,cm,2005-02-28 13,,44.1833,-88.0667
+88,SPRM5,SPRING GROVE 4N,339 meters,station snow water equivalent,1.02,cm,2005-02-28 13,,43.6125,-91.6222
+89,MRRM5,WCES,331 meters,station snow water equivalent,1.02,cm,2005-02-28 14,,45.5833,-95.8833
+90,SGVI2,SPRING GROVE,258 meters,station snow water equivalent,0.76,cm,2005-02-28 13,,42.4678,-88.2372
+91,STAN8,"3MI.NNW STANLEY,ND",687 meters,station snow water equivalent,0.76,cm,2005-02-28 13,,48.3567,-102.4131
+92,TMSC3,THOMASTON RSVR DAM,142 meters,station snow water equivalent,0.63,cm,2005-02-28 18,,41.6947,-73.0622
+93,CRVV2,"2MI.W CHARLOTTESVILLE,VA",188 meters,station snow water equivalent,0.51,cm,2005-02-28 13,,38.0333,-78.5167
+94,DALV2,"DALE ENTERPRISE,VA",398 meters,station snow water equivalent,0.51,cm,2005-02-28 12,,38.45,-78.9333
+95,GDMV2,GATHRIGHT DAM,541 meters,station snow water equivalent,0.51,cm,2005-02-28 13,,37.9458,-79.9542
+96,FLNM4,CASE DRAIN-BOARTMAN CRK,191 meters,station snow water equivalent,0.51,cm,2005-02-28 11,,43.9267,-83.0936
+97,UGRW3,"UNION GROVE,WI",229 meters,station snow water equivalent,0.51,cm,2005-02-28 14,,42.7,-88.0322
+98,BGTW3,SEWAGE DISPOSAL PLANT,251 meters,station snow water equivalent,0.51,cm,2005-02-28 12,,42.6833,-88.2
+99,WODI2,WOODSTOCK,288 meters,station snow water equivalent,0.51,cm,2005-02-28 13,,42.3628,-88.5314
+100,GEOI2,"2MI.SW GENOA,IL",256 meters,station snow water equivalent,0.51,cm,2005-02-28 13,,42.08,-88.7075
+101,ZUMM5,ZUMBRO FALLS,253 meters,station snow water equivalent,0.51,cm,2005-02-28 13,,44.2853,-92.431
+102,MONN8,"MONTPELIER,ND",424 meters,station snow water equivalent,0.51,cm,2005-02-28 14,,46.7,-98.5833
+103,BUCV2,"BUCHANAN,VA",308 meters,station snow water equivalent,0.25,cm,2005-02-28 12,,37.5333,-79.6833
+104,FORW3,FORESTVILLE-4E,210 meters,station snow water equivalent,0.25,cm,2005-02-28 14,,44.6978,-87.3969
+105,LNCM5,LANCASTER,279 meters,station snow water equivalent,0.05,cm,2005-02-28 14,,48.8583,-96.8047
+106,FRFI4,"FAIRFIELD,IA",233 meters,station snow water equivalent,0.03,cm,2005-02-28 22,,41.0333,-91.95
+107,FRAW3,FRANCIS CREEK,222 meters,station snow water equivalent,0.0,cm,2005-02-28 11,,44.2006,-87.7192
+108,ARGW3,ARGYLE,261 meters,station snow water equivalent,0.0,cm,2005-02-28 13,,42.7006,-89.0189
+109,ARLW3,UNIV FARM,318 meters,station snow water equivalent,0.0,cm,2005-02-28 14,,43.3,-89.35

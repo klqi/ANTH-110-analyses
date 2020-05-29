@@ -1,0 +1,185 @@
+,Station_Id,Name,Elevation,Amount,Amount_Units,Duration,Duration_Units,Physical_Element,DateTime_Report,Unnamed: 9,Latitude,Longitude
+0,MHKM4,MOHAWK,315 meters,109.22,mm,12.0,Hours,station raw snowfall,2005-03-01 01,,47.3058,-88.3639
+1,CLKM4,"6MI.E CHAMPION,MI",499 meters,101.6,mm,12.0,Hours,station raw snowfall,2005-03-01 02,,46.5014,-87.8458
+2,MQT,"MARQUETTE, MI",437 meters,86.36,mm,12.0,Hours,station raw snowfall,2005-03-01 00,,46.5311,-87.5483
+3,LOKW3,LAND O LAKES 10W,526 meters,147.32,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,46.1917,-89.4308
+4,BKBW2,DAVIS.,1136 meters,15.24,mm,3.0,Hours,station raw snowfall,2005-02-28 15,,39.0983,-79.4319
+5,ONOM4,"1MI.S ONTONAGON,MI",199 meters,55.88,mm,12.0,Hours,station raw snowfall,2005-03-01 01,,46.8578,-89.3133
+6,SBEW3,EXP. FARM,208 meters,101.6,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.8667,-87.3333
+7,WMAW3,"4MI.N WAUTOMA,WI",321 meters,101.6,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.1167,-89.2833
+8,FORW3,FORESTVILLE-4E,210 meters,88.9,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.6978,-87.3969
+9,WROW3,WILD ROSE-6 NE-TWIN LAKES,287 meters,88.9,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.2319,-89.1436
+10,THRW3,"1MI.SSE HILES,WI",506 meters,88.9,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.665,-88.9614
+11,PRQW3,PRESQUE ISLE,510 meters,88.9,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,46.2478,-89.7292
+12,Y82W3,BAILEYS HARBOR,214 meters,86.36,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.06667,-87.13333
+13,BPKI2,BEACH PARK,219 meters,43.18,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,42.4289,-87.8833
+14,GOMW3,ALGOMA,191 meters,81.28,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.6147,-87.4369
+15,LOT,"CHICAGO, IL",200 meters,20.32,mm,6.0,Hours,station raw snowfall,2005-03-01 06,,41.6083,-88.0939
+16,ELOW3,ELCHO,500 meters,81.28,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.4464,-89.1711
+17,PESW3,"PESHTIGO,WI",191 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.0667,-87.7333
+18,GRYI2,GRAYSLAKE,254 meters,38.1,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,42.3344,-88.0092
+19,OCFW3,OCONTO ELETRIC COOPERATIVE,219 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.8975,-88.1278
+20,LKWW3,"3MI.NE LAKEWOOD,WI",376 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.3333,-88.5
+21,LGKW3,LONG LAKE 3-NE,455 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.8825,-88.6314
+22,Y55W3,RHINELANDER,488 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.6167,-89.35
+23,RHI,RHINELANDER-ONEIDA COUNTY AIRPORT,487 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.6308,-89.4653
+24,HRRW3,"HARRISON,WI",484 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.4833,-89.5
+25,ASFW1,RAINIER PARADISE RANGER STN,1643 meters,76.2,mm,24.0,Hours,station raw snowfall,2005-02-28 16,,46.7861,-121.7422
+26,LILW3,LILY-2 NE,447 meters,71.12,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.3272,-88.8331
+27,WASW3,"WASHINGTON ISLAND,WI",203 meters,68.58,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.3667,-86.9333
+28,FLNW3,"FLORENCE,WI",399 meters,68.58,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.925,-88.2569
+29,TAKW3,RICE RESERVOIR NO. 2,453 meters,68.58,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.5264,-89.7522
+30,OWEW3,OWEN 3W,389 meters,66.04,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.9801,-90.5544
+31,KIMW3,KIMBERLY,227 meters,63.5,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.2672,-88.3361
+32,APLW3,RADIO STATION NEARBY,235 meters,63.5,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.2511,-88.3644
+33,SHAW3,"SHAWANO,WI",255 meters,63.5,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.5,-88.75
+34,BLNW3,BERLIN WWTP,235 meters,63.5,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.99,-88.9417
+35,AURW3,AURORA,359 meters,63.5,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.77,-88.1181
+36,CRIW3,HIGH FALLS,284 meters,60.96,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.2833,-88.1919
+37,FNKW3,FRANKSVILLE,228 meters,58.42,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.8011,-87.8931
+38,WTNM4,"3MI.W WATTON,MI",436 meters,27.94,mm,12.0,Hours,station raw snowfall,2005-02-28 23,,46.5103,-88.6667
+39,WPAW3,WAUPACA-3 SW - KING,287 meters,53.34,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.3311,-89.1469
+40,KEWW3,"KEWAUNEE,WI",211 meters,50.8,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.4333,-87.5167
+41,UGRW3,"UNION GROVE,WI",229 meters,50.8,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.7,-88.0322
+42,ASTW3,ATHELSTANE,292 meters,50.8,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.425,-88.0575
+43,APPW3,APPLETON NORTHWEST,242 meters,50.8,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.2786,-88.4386
+44,KSAW3,KESHENA,269 meters,50.8,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.8906,-88.6625
+45,MEDW3,MEDFORD,425 meters,50.8,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,45.1308,-90.3439
+46,MKE,"MILWAUKEE,WI",204 meters,43.18,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,42.9467,-87.8969
+47,ARX,"LA CROSSE, WI",388 meters,40.64,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.8228,-91.1919
+48,ABGW3,AMBERG 9 E,224 meters,40.64,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.4825,-87.8119
+49,BAGM4,"2MI.W BARAGA,MI",270 meters,20.32,mm,12.0,Hours,station raw snowfall,2005-02-28 13,,46.7786,-88.5442
+50,SYGW3,SHEBOYGAN-SOUTH,193 meters,38.1,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.7194,-87.7247
+51,GCYW3,GENOA CITY,253 meters,38.1,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.4986,-88.33
+52,STPW3,"STEVENS POINT,WI",335 meters,38.1,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.5167,-89.5167
+53,PLOW3,PLOVER,329 meters,38.1,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.4428,-89.5453
+54,NELW3,NEILLSVILLE 3SW,309 meters,38.1,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.5289,-90.6381
+55,MOCW3,MANITOWOC,194 meters,35.56,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.0794,-87.6781
+56,SYNW3,SHEBOYGAN 1SW,202 meters,35.56,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.7356,-87.735
+57,MLCW3,GREEN BAY 9 NW MILL CENTER,231 meters,35.56,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.5889,-88.1686
+58,BATI2,BATAVIA,218 meters,17.78,mm,12.0,Hours,station raw snowfall,2005-03-01 00,,41.8483,-88.3119
+59,MFDW3,"MARSHFIELD,WI",368 meters,35.56,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.6333,-90.1
+60,FLKM4,FORTUNE LAKE,432 meters,17.78,mm,12.0,Hours,station raw snowfall,2005-03-01 01,,46.095,-88.4258
+61,WESW3,WESTBY 1NE,394 meters,33.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.6749,-90.8077
+62,WPKW3,SW-WHITNAL PARK,236 meters,30.48,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.9167,-88.0333
+63,MSN,"MADISON,WI",262 meters,30.48,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,43.1397,-89.3375
+64,COBW3,COLBY-5NE,405 meters,30.48,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.9325,-90.2286
+65,WABM5,WABASHA,214 meters,30.48,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.385,-92.0486
+66,FRAW3,FRANCIS CREEK,222 meters,27.94,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.2006,-87.7192
+67,NECW3,NECEDAH 2SE,277 meters,27.94,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.9968,-90.0352
+68,MMCW3,MT. MARY COLLEGE,220 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0728,-88.0306
+69,BRLW3,"BRILLION,WI",255 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.1833,-88.0667
+70,GRB,"GREEN BAY, WI",214 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,44.4986,-88.1117
+71,BGTW3,SEWAGE DISPOSAL PLANT,251 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.6833,-88.2
+72,WCCW3,CARROLL COLLEGE,275 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0,-88.2167
+73,TNLW3,TWIN LAKES 1SW,253 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.5275,-88.2683
+74,YOKI2,YORKVILLE,221 meters,12.7,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,41.6211,-88.4356
+75,Y11W3,EAGLE,280 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.8725,-88.46444
+76,CNTW3,"CLINTONVILLE,WI",247 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.6225,-88.765
+77,PLVW3,"PLOVER,WI",330 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.45,-89.5333
+78,WIRW3,GRAND AVENUE B,312 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.4,-89.8167
+79,MROW3,MONROE CENTER 1E,293 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.1119,-89.9192
+80,HTFW3,HATFIELD,273 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.4169,-90.7314
+81,LWDI4,"LOWDEN,IA",225 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,41.8667,-90.9333
+82,CRCI4,CRESCO 1NE,375 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3894,-92.0938
+83,ZUMM5,ZUMBRO FALLS,253 meters,25.4,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.2853,-92.431
+84,GDCM4,GARDEN CORNERS,174 meters,12.7,mm,12.0,Hours,station raw snowfall,2005-02-28 13,,45.8983,-86.5483
+85,LCFW3,FRENCH ISLAND,205 meters,22.86,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.8669,-91.2725
+86,PTWW3,"PORT WASHINGTON,WI",175 meters,20.32,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3833,-87.8667
+87,VALW3,VALDERS,255 meters,20.32,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.0664,-87.8797
+88,HINW3,HINGHAM,235 meters,20.32,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.6406,-87.9106
+89,PTNM5,PRESTON,284 meters,20.32,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.6725,-92.0747
+90,CDGW3,LAKEFIELD,222 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.2947,-87.9725
+91,ELHW3,"ELKHART LAKE,WI",291 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.8333,-88.0167
+92,MKX,WFO SULLIVAN,285 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.9681,-88.5492
+93,PGEW3,PORTAGE 3SE,246 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.5269,-89.3917
+94,ARBW3,SOUTH SIDE-ARBORETUM UNIV WI,293 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0411,-89.4286
+95,CHMW3,"MADISON,WI",320 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0603,-89.4781
+96,MDLW3,MIDDLETON 1NE,289 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.102,-89.496
+97,AUW,WAUSAU MUNICIPAL AIRPORT,368 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,44.9258,-89.6256
+98,LSGI4,LANSING 4SE,251 meters,17.78,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3197,-91.1617
+99,WETW3,"WEST ALLIS,WI",228 meters,15.24,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0172,-88.0017
+100,KEEW3,MERTON 1.5N,302 meters,15.24,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.1669,-88.3042
+101,MLI,QUAD CITY INTL,176 meters,15.24,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,41.4486,-90.5075
+102,EGNM5,ELGIN 2SSW,330 meters,15.24,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.097,-92.2701
+103,GTHC2,GOTHIC,3171 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 19,,38.9667,-106.9833
+104,SHNW3,SHEBOYGAN 5MI.SW,217 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.6769,-87.7572
+105,KENW3,WATER POLLUTION CONTROL PLANT,188 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-03-01 06,,42.55,-87.8142
+106,TAHW3,TAYCHEEDAHV_REMARKS=,325 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.8339,-88.3469
+107,FDCW3,AAWO,332 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.6333,-88.45
+108,Y77W3,MILLARD,283 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.75333,-89.77806
+109,Y08W3,JUNEAU,283 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.40611,-88.705
+110,WATW3,"WATERTOWN,WI",241 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.175,-88.7353
+111,LKMW3,"LAKE MILLS,WI",260 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0667,-88.9122
+112,BLTW3,"BELOIT,WI",231 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.5,-89.0333
+113,SNPW3,SUN PRAIRIE 4 NNE,299 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.2211,-89.2139
+114,Y01W3,MADISON,308 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0333,-89.45
+115,Y91W3,MERRILL,445 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.23917,-89.33528000000001
+116,WDEW3,"WISCONSIN DELLS,WI",287 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.6167,-89.7833
+117,BLVW3,"BLANCHARDVILLE,WI",250 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.7833,-89.8667
+118,RDBW3,REEDSBURG 1NNE,279 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.5533,-89.9972
+119,SRTW3,SPARTA,238 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.9365,-90.8163
+120,BLAW3,BLAIR,262 meters,12.7,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.2925,-91.2229
+121,MKNW3,MILWAUKEE - BROWN DEER,217 meters,10.16,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.1569,-87.9803
+122,GERW3,"GERMANTOWN,WI",264 meters,10.16,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.2167,-88.1167
+123,GMIW3,GAYS MILLS,215 meters,10.16,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3168,-90.8452
+124,BRL,BURLINGTON REGIONAL AIRPORT,210 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,40.7833,-91.1253
+125,MDHC2,MEREDITH UPPER COLORADO RVR PROJECT/COOP,2395 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-02-28 19,,39.3619,-106.7422
+126,HARW3,"2MI.W HARTFORD,WI",300 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3167,-88.4
+127,MOUW3,MOUNTAIN 1 SW,284 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,45.1722,-88.4939
+128,PORW3,"PORTAGE,WI",237 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.5319,-89.4378
+129,BABW3,"BARABOO,WI",253 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.4833,-89.6333
+130,LANW3,LANCASTER 4WSW,307 meters,7.62,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.8278,-90.7889
+131,WHII3,WHITING,179 meters,2.54,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,41.6825,-87.5103
+132,WLBI2,WILLOWBROOK,222 meters,2.54,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,41.7322,-87.9486
+133,ETBW3,WEST BEND,290 meters,5.08,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.430279999999996,-88.17833
+134,Y07W3,WEST BEND 2NW,288 meters,5.08,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.45361,-88.20333000000001
+135,MKTI4,"2MI.W MAQUOKETA,IA",227 meters,5.08,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.0667,-90.7
+136,RSRM5,ROCHESTER AP 2NE,386 meters,5.08,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.9281,-92.4758
+137,FRFI4,"FAIRFIELD,IA",233 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-02-28 22,,41.0333,-91.95
+138,JFNW3,JEFFERSON - WWTP,241 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.9947,-88.8039
+139,RICW3,RICHLAND CENTER,223 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3169,-90.3777
+140,WSHI4,"WASHINGTON,IA",229 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,41.2833,-91.6833
+141,CIYI4,CHARLES CITY,306 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.0776,-92.6714
+142,DSM,"DES MOINES,IA",249 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,41.5339,-93.6625
+143,SCOM5,MISSISSIPPI RIVER,315 meters,2.54,mm,24.0,Hours,station raw snowfall,2005-02-28 11,,45.55,-94.15
+144,HGHI3,HIGHLAND,183 meters,0.02,mm,12.0,Hours,station raw snowfall,2005-03-01 02,,41.5642,-87.4475
+145,CNNI2,CHICAGO,202 meters,0.02,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,41.97,-87.8072
+146,LNNI2,LA GRANGE,202 meters,0.02,mm,12.0,Hours,station raw snowfall,2005-02-28 12,,41.7953,-87.8708
+147,MSCI4,MASON CITY #1,345 meters,0.02,mm,12.0,Hours,station raw snowfall,2005-03-01 05,,43.1528,-93.1967
+148,KEQI4,"KEOSAUQUA,IA",194 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 14,,40.7333,-91.9667
+149,MWM,GOODLAND CITY #3,1131 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,43.9134,-95.1094
+150,URYC2,QURAY SPOTTER,2357 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 19,,38.0261,-107.6725
+151,RWYC2,RIDGWAY 3NW,2420 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 19,,38.1833,-107.7667
+152,MONO1,MONTPELIER,262 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,41.5802,-84.6077
+153,Y16W3,DELAVAN,286 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.62444,-88.62722
+154,WHTW3,"WHITEWATER,WI",244 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.8567,-88.7294
+155,FATW3,"FORT ATKINSON,WI",246 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.8833,-88.8333
+156,ARGW3,ARGYLE,261 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.7006,-89.0189
+157,BELW3,BELOIT,247 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.5253,-89.2069
+158,STOW3,"STOUGHTON,WI",271 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.9167,-89.2167
+159,ARLW3,UNIV FARM,318 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.3,-89.35
+160,BROW3,"BRODHEAD,WI",240 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.6172,-89.3897
+161,MONW3,"1MI.W MONROE,WI",303 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,42.6,-89.6667
+162,KEWI2,"1MI.E KEWANEE,IL",245 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,41.25,-89.9
+163,GPBI2,"GALENA,IL",229 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 14,,42.4167,-90.4333
+164,DVN,"QUAD CITIES, IA",231 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,41.6117,-90.5892
+165,DBQ,"DUBUQUE,IA",322 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,42.4031,-90.7092
+166,REAW3,"READSTOWN,WI",231 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.4497,-90.7594
+167,SBNW3,STEUBEN 4SE,312 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,43.1343,-90.8372
+168,LSE,LA CROSSE MUNICIPAL AIRPORT,196 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,43.8792,-91.2561
+169,IOW,IOWA CITY MUNICIPAL AIRPORT,198 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,41.6394,-91.5461
+170,CID,CEDAR RAPIDS MUNI ARPT,257 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,41.8844,-91.7108
+171,ALTM5,ALTURA 5W,255 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,44.0633,-92.0397
+172,BLLI4,"3MI.S BELLE PLAINE,IA",250 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 13,,41.9,-92.2667
+173,ALO,"WATERLOO,IA",265 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,42.5569,-92.4
+174,RST,"ROCHESTER,MN",391 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,43.9089,-92.4978
+175,DMXI4,DES MOINES WFO,288 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-03-01 00,,41.7361,-93.7236
+176,MJQ,JACKSON,436 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,43.65,-94.9867
+177,SPW,SPENCER MUNICIPAL AIRPORT,406 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,43.1642,-95.2006
+178,ORC,ORANGE CITY,421 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,42.4164,-96.3933
+179,PQN,PIPESTONE,526 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,43.9333,-96.3033
+180,FSD,"SIOUX FALLS, SD",440 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,43.5875,-96.7294
+181,BKX,BROOKINGS MUNICIPAL AIRPORT,491 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.3047,-96.8169
+182,MHE,MITCHELL MUNICIPAL AIRPORT,395 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,43.7747,-98.0383
+183,HON,"HURON,SD",386 meters,0.02,mm,24.0,Hours,station raw snowfall,2005-02-28 12,,44.3853,-98.2286
